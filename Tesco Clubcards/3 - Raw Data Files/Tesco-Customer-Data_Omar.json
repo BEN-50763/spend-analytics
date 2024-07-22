@@ -1,0 +1,3609 @@
+{
+  "Customer Profile And Contact Data": {
+    "Online Account": {
+      "email address": "oms42deadman@gmail.com",
+      "prospects": {
+        "tesco bank marketing prospect": null,
+        "tesco bank prospect timestamp": "NA",
+        "tesco mobile marketing prospect": null,
+        "tesco mobile prospect timestamp": "NA"
+      },
+      "surname": "Shakir",
+      "first name": "Omar",
+      "marketing preferences": {
+        "consent status": "OptedIn",
+        "consent timestamp": "2022-04-22T17:54:06.1522442Z"
+      },
+      "phone number": {
+        "day telephone": ["07510108320"],
+        "evening telephone": ["07510108320"],
+        "mobile telephone": ["07510108320"]
+      },
+      "middle name": "   ",
+      "title": "Mr  ",
+      "postal address": [{
+        "address": "#29,Andrews Road,Reading",
+        "postcode": "RG6 7PJ"
+      }],
+      "registered clubcard": "634004 **** **** 8691"
+    },
+    "Clubcard Accounts": {
+      "email address": "oms42deadman@gmail.com",
+      "dob": null,
+      "user mail status": "Mailable",
+      "surname": "Shakir",
+      "sex": "",
+      "first name": "Omar",
+      "preferences": ["E-Mail Contact:OptIn"],
+      "phone number": {
+        "day telephone": "07510108320",
+        "evening telephone": "07510108320",
+        "mobile telephone": "07510108320"
+      },
+      "no of household members": 1,
+      "middle name": "",
+      "title": "Mr",
+      "marketing consents": ["Tesco Products:OptIn", "Tesco Partners:OptIn", "Customer Research:OptIn"],
+      "postal address": {
+        "address line 3": "",
+        "address line 5": "",
+        "address line 4": "",
+        "postcode": "RG67PJ",
+        "address line 1": "29 Andrews Road",
+        "address line 2": "Reading"
+      },
+      "user status": "Active",
+      "registered clubcard": ["634004 **** **** 8691"]
+    },
+    "Marketing Preferences": {
+      "preference": [],
+      "email address": ["NULL"]
+    }
+  },
+  "Purchase": [[{
+    "basketValueGross": "6.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "1.05",
+    "storeId": "6709",
+    "storeAddress": "30-40 Blackheath Rd,Deptford",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "6.0"
+    }],
+    "timeStamp": "2024-02-24 22:24:59.428",
+    "basketValueNet": "6.0",
+    "says": "NA",
+    "storeName": "Deptford Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Gordon's Gin & Tonic 250Ml Can",
+      "quantity": "3",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.85",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2024-01-17 11:07:03.724",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.08",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.77",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.55",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "7.0"
+    }],
+    "timeStamp": "2023-12-21 09:06:53.184",
+    "basketValueNet": "7.0",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tropical Tray 250G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.35",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.65",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "4.65"
+    }],
+    "timeStamp": "2023-12-20 09:48:07.626",
+    "basketValueNet": "4.65",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "5.4"
+    }],
+    "timeStamp": "2023-12-05 11:16:46.457",
+    "basketValueNet": "5.4",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "5.4"
+    }],
+    "timeStamp": "2023-11-28 09:41:48.688",
+    "basketValueNet": "5.4",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "4.4"
+    }],
+    "timeStamp": "2023-11-27 10:40:46.199",
+    "basketValueNet": "4.4",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.35",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-11-21 11:31:07.309",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.01",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.01",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Indian Inspired Onion Bhaji 255G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.38",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.2",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-11-03 11:04:47.063",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.04",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Prawn Mayonnaise Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.33",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.03",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.35",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "4.4"
+    }],
+    "timeStamp": "2023-10-27 09:36:30.095",
+    "basketValueNet": "4.4",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.01",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.01",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.38",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.1",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.1",
+    "storeId": "6077",
+    "storeAddress": "Tesco,16-18 New Bridge Street",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "5.1"
+    }],
+    "timeStamp": "2023-10-19 11:26:50.490",
+    "basketValueNet": "5.1",
+    "says": "NA",
+    "storeName": "Blackfriar Express",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.49",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.04",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Biotiful Dairy Kefir Coffee Mocha 250ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.87",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.29",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "4.05",
+    "storeId": "2097",
+    "storeAddress": "158-164 BISHOPSGATE,BISHOPSGATE,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "5.29"
+    }],
+    "timeStamp": "2023-09-30 09:31:42.100",
+    "basketValueNet": "5.29",
+    "says": "NA",
+    "storeName": "BISHOPSGATE EXPRESS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Starbucks Caramel Macchiato Coffee Drink 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.18",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Banana Each (C)",
+      "quantity": "7",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.27",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.92",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-09-21 10:06:48.269",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.1",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "5.1"
+    }],
+    "timeStamp": "2023-09-20 10:30:27.613",
+    "basketValueNet": "5.1",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-09-06 10:03:17.853",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-09-05 09:53:25.943",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.1",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "5.1"
+    }],
+    "timeStamp": "2023-08-30 10:44:32.680",
+    "basketValueNet": "5.1",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Peanut & Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-08-23 10:35:36.612",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Peanut & Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-08-22 16:34:27.372",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.25",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "4.25"
+    }],
+    "timeStamp": "2023-08-08 09:48:49.432",
+    "basketValueNet": "4.25",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Peanut & Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.25",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "4.25"
+    }],
+    "timeStamp": "2023-08-03 10:31:32.743",
+    "basketValueNet": "4.25",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Peanut & Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.41",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.25",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.3",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "4.25"
+    }],
+    "timeStamp": "2023-08-02 09:49:37.534",
+    "basketValueNet": "4.25",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.51",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.69",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.6",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-07-26 11:17:58.393",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.49",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.61",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "For Goodness Shakes Protein Strawberry 475Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.3",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.25",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.3",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "4.25"
+    }],
+    "timeStamp": "2023-07-25 11:48:20.916",
+    "basketValueNet": "4.25",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.51",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.69",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "18.02",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "1.36",
+    "storeId": "6740",
+    "storeAddress": "Plough Way,Deptford,SURREY KEYS LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "18.02"
+    }],
+    "timeStamp": "2023-07-23 20:45:22.344",
+    "basketValueNet": "18.02",
+    "says": "NA",
+    "storeName": "MARINE WHARF EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco 0% Fat Greek Style Yogurt 500G",
+      "quantity": "3",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Courgettes (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.19",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Luxury Soft White Toilet Tissue 6 Long Rolls",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "3.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Italian Chopped Tomatoes 400G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Baby Plum Tomato 325G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Red Onions (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "The Original Oatly Whole Oat Long Life Drink 1L",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Banana Each (C)",
+      "quantity": "4",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.27",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Medium Free Range Eggs 6 Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.55",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Philadelphia Light Low Fat Soft Cream Cheese 165G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Garlic Twin Pack (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.3",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-07-20 10:17:29.368",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.51",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.69",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.65",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-07-19 12:15:41.366",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.37",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kind Protein Caramel Nut 50g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.92",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "For Goodness Shakes Protein Strawberry 475Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.11",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.47",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "5.0",
+    "storeId": "5190",
+    "storeAddress": "11-15 MELCOMBE STREET,MARYLEBONE,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "7.47"
+    }],
+    "timeStamp": "2023-06-25 15:00:26.576",
+    "basketValueNet": "7.47",
+    "says": "NA",
+    "storeName": "MELCOMBE ST LON EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Emmi Caffe Latte Mr Big Skinny 370Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.22",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Magnum White Chocolate Ice Cream Sticks 3x100ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Green Seedless Grapes Pack 500G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.32",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "KIND Protein Dark Chocolate snack Bar 50g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.88",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.25",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.3",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "4.25"
+    }],
+    "timeStamp": "2023-06-21 10:40:50.644",
+    "basketValueNet": "4.25",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.51",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.69",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.55",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-06-15 09:51:38.834",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.49",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "For Goodness Shakes Protein Strawberry 475Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.32",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.59",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.2",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-06-08 12:36:32.545",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.52",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.22",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.25",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-06-07 11:50:19.147",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.52",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.68",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.25",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-05-31 12:41:08.273",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.52",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.68",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.9",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-05-30 14:35:12.959",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.51",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.46",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Emmi Caffe Latte Mr Big Skinny 370Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.43",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "8.1",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "NA",
+    "storeId": "2097",
+    "storeAddress": "158-164 BISHOPSGATE,BISHOPSGATE,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "8.1"
+    }],
+    "timeStamp": "2023-05-24 06:26:44.903",
+    "basketValueNet": "8.1",
+    "says": "NA",
+    "storeName": "BISHOPSGATE EXPRESS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Cadbury Crunchie Chocolate Bars Multipack 5(+2 Free) X 40g",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Lemsip Max Cold & Flu Lemon Sachets Paracetamol 10 Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "5.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.65",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "0.6",
+    "storeId": "4558",
+    "storeAddress": "Silverdale Road,READING,BERKSHIRE",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "4.65"
+    }],
+    "timeStamp": "2023-05-20 16:48:13.000",
+    "basketValueNet": "4.65",
+    "says": "NA",
+    "storeName": "READING SILVERDALE RD",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Carnation Sweetened Condensed Milk 397g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Lotus Biscuit Spread Smooth 400G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.65",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.25",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-05-17 10:11:07.968",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.52",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.68",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.7",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.85",
+    "storeId": "5354",
+    "storeAddress": "23-27 FALCON ROAD,BATTERSEA,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "6.7"
+    }],
+    "timeStamp": "2023-05-14 15:07:18.028",
+    "basketValueNet": "6.7",
+    "says": "NA",
+    "storeName": "FALCON BATTERSEA EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's The Family Dairy Protein 25G Strawberry Pack 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Seedless Grape Select Pack 500G +50% Extra Free (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.2",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.49",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.82",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.9",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "1.9",
+    "storeId": "5929",
+    "storeAddress": "1-3 High Road,WOODGREEN,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "7.9"
+    }],
+    "timeStamp": "2023-05-06 21:00:26.084",
+    "basketValueNet": "7.9",
+    "says": "NA",
+    "storeName": "TURNPIKE LANE EXPRESS",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Naked Green Machine Apple Banana Smoothie 300Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.79",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cheese & Onion Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.96",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco All Butter Shortbread Petticoat Tails 450G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "4.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Walkers Sensations Thai Sweet Chilli Grab Bag Crisps 40g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.9",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-05-03 11:06:45.316",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.08",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.51",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.81",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.75",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "1.0",
+    "storeId": "3205",
+    "storeAddress": "SURREY QUAYS CENTRE,REDRIFF ROAD,ROTHERHITHE,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "7.75"
+    }],
+    "timeStamp": "2023-04-07 11:50:14.835",
+    "basketValueNet": "7.75",
+    "says": "NA",
+    "storeName": "SURREY QUAYS EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Scented Candle Rhubarb & Elderberry 95G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ferrero Raffaello Coconut & Almond Pralines 230G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "4.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Canderel Granular Sweetener 75G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.75",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-03-22 11:19:05.261",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Graham's Protein 25G Passion Fruit & Mango Yogurt 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.61",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake White Chocolate Flavoured 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.54",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.8",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-02-15 11:51:04.226",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Nature Valley Protein Salted Caramel Nut Cereal Bar 40g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.64",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.23",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.53",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.7",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "1.45",
+    "storeId": "4558",
+    "storeAddress": "Silverdale Road,READING,BERKSHIRE",
+    "paymentType": [{
+      "type": "MastercardCredit",
+      "category": "NA",
+      "amount": "6.7"
+    }],
+    "timeStamp": "2023-02-04 10:52:25.321",
+    "basketValueNet": "6.7",
+    "says": "NA",
+    "storeName": "READING SILVERDALE RD",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Nestle Curiously Cinnamon 375G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco British Semi Skimmed Milk 2.272L, 4 Pints",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Medium Free Range Eggs 6 Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Wholemeal Seeds And Grains Bread 800G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-01-18 09:42:09.960",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.78",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.17",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-01-10 10:20:56.721",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.78",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.17",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2023-01-04 12:45:10.196",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.78",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.17",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.73",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "1.1",
+    "storeId": "4389",
+    "storeAddress": "Aldgate East Tube, Wh,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "4.73"
+    }],
+    "timeStamp": "2022-12-31 20:11:40.003",
+    "basketValueNet": "4.73",
+    "says": "NA",
+    "storeName": "LONDON ALDGATE EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Sensations Thai Sweet Chilli 150G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Quality Street Matchmakers Honeycomb 120G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.63",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Strawberry Trifle 600G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.35",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Butterkist Toffee Popcorn 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2022-12-06 12:05:36.516",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.17",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.78",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.65",
+    "storeId": "5354",
+    "storeAddress": "23-27 FALCON ROAD,BATTERSEA,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2022-11-11 20:41:46.710",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "FALCON BATTERSEA EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fulfil Peanut & Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Prawn Mayonnaise Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.26",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "25.69",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "1.75",
+    "storeId": "3205",
+    "storeAddress": "SURREY QUAYS CENTRE,REDRIFF ROAD,ROTHERHITHE,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "25.69"
+    }],
+    "timeStamp": "2022-11-05 18:44:19.209",
+    "basketValueNet": "25.69",
+    "says": "NA",
+    "storeName": "SURREY QUAYS EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "FOLIAGE",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Large Pineapple Each",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Perfectly Imperfect Strawberry 227G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.49",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Halal Breast Bulk",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "12.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tagliatelle Pasta 500G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.95",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Curly Kale 180G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Rosedene Farms Small Apple 6 Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.95",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Raspberries 150G +50%Ef",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 0% Fat Greek Style Yogurt 1Kg",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Blueberries 150G+33% Ex/Free",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Nightingale Farm Peppers",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.45",
+    "storeId": "3478",
+    "storeAddress": "50/52 OLD BROMPTON RO,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "4.4"
+    }],
+    "timeStamp": "2022-11-05 14:43:56.935",
+    "basketValueNet": "4.4",
+    "says": "NA",
+    "storeName": "OLD BROMPTON RD EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Fanta Zero Strawberry & Kiwi 500ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.93",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's The Family Dairy Protein 25G Strawberry Pack 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.59",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fulfil Chocolate Salted Caramel Vitamin & Protein Bar 40G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.88",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.8",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.4"
+    }],
+    "timeStamp": "2022-11-02 13:44:45.981",
+    "basketValueNet": "3.4",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.23",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Protein Pot 90G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.64",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Tuna & Egg Salad Sandwich",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.53",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "9.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "7.7",
+    "storeId": "3054",
+    "storeAddress": "LODGE ROAD,PORTSWOOD,SOUTHAMPTON,HAMPSHIRE",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "9.0"
+    }],
+    "timeStamp": "2022-10-23 13:11:14.452",
+    "basketValueNet": "9.0",
+    "says": "NA",
+    "storeName": "PORTSWOOD EXPRESS",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.55",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cadbury Wispa Chocolate Duo Bar 47.4G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.55",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Protein Pot 90G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.57",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Oasis Summer Fruits 500 M",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.88",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Walkers Max Punchy Paprika Grab Bag Crisps 50g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-10-19 12:13:44.442",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Protein Pot 90G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-10-12 13:14:32.908",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Protein Pot 90G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "8.4",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "0.95",
+    "storeId": "4359",
+    "storeAddress": "Bermondsey Spa,,Jamaica Road,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "8.4"
+    }],
+    "timeStamp": "2022-10-11 19:38:25.677",
+    "basketValueNet": "8.4",
+    "says": "NA",
+    "storeName": "LONDON BERMONDSEY EXP",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Sweet Vine Ripened Tomatoes 255G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Fresh Potato Gnocchi Pasta 400 G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Philadelphia Garlic & Herbs Soft Cream Cheese 165G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mascarpone Cheese 250 G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.75",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.2",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "NA",
+    "storeId": "4359",
+    "storeAddress": "Bermondsey Spa,,Jamaica Road,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "1.2"
+    }],
+    "timeStamp": "2022-09-15 20:37:01.182",
+    "basketValueNet": "1.2",
+    "says": "NA",
+    "storeName": "LONDON BERMONDSEY EXP",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Medium Curry Powder 80G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-09-13 13:02:00.915",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Protein Pot 90G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-09-09 12:58:41.804",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Salmon Teriyaki Rice Bowl 290G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Protein Pot 90G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-09-01 13:00:49.821",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Protein Pot 90G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna Crunch Sub",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "23.55",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "7.3",
+    "storeId": "6740",
+    "storeAddress": "Plough Way,Deptford,SURREY KEYS LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "23.55"
+    }],
+    "timeStamp": "2022-08-28 21:18:09.553",
+    "basketValueNet": "23.55",
+    "says": "NA",
+    "storeName": "MARINE WHARF EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Finest Garlic And Parsley Ciabatta 255G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.14",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Portobello Flat Mushrooms 150G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Buffalo Mozzarella & Tomato Pizza 420G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "3.86",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spaghetti Rings In Tomato Sauce 410G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Garlic & Extra Virgin Olive Oil Flatbread 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.14",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Stonebaked Margherita Pizza 252G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Hartleys Multi No Added Sugar Strawberry Jelly 6 X 115G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.2",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Wholemeal Medium Bread 800G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Nissin Demae Ramen Sesame Noodles 100G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest 6 Free Range Chestnut Maran Eggs",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Quadruple Strength Apple & Blackcurrant No Added Sugar 750Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Free Range 6 Medium Express Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Baked Beans In Tomato Sauce 420G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.45",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-08-24 12:39:07.892",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Feta Semi Dried Tomato Pasta 290G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Plant Chef Falafel & Houmous 85G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-08-22 17:04:51.611",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Protein Pot 90G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "15.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.0",
+    "storeId": "3040",
+    "storeAddress": "WATERLOO ROAD,POOLE,DORSET",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "15.0"
+    }],
+    "timeStamp": "2022-08-20 16:37:40.406",
+    "basketValueNet": "15.0",
+    "says": "NA",
+    "storeName": "POOLE FLEETS CNR EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Folding Camping Chair green",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "7.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Folding Camping Chair Burgundy",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "7.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.15",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-08-17 13:10:53.260",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Mango Chunks 120G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.57",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ufit High Protein Milkshake Drink Strawberry 330Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.09",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "T.P/Chef Mexican Inspired Falafel & Rice Salad 235G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.34",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.45",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-08-11 12:39:16.181",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "The Collective Plant-Based Yogurt Alternative Raspberry 135G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.52",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tuna & Sweetcorn Pasta 300G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.27",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Naked Green Machine Apple Banana Smoothie 300Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.21",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.35",
+    "storeId": "6077",
+    "storeAddress": "16 - 18 New Bridge St,BLACKFRIARS,LONDON,LONDON",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2022-08-10 13:00:12.523",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LONDON BLACKFRIAR EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ribena Blackcurrant Light Bottle 500 M",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.81",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Beautifully Balanced Indian Inspired Onion Bhaji 255G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.54",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mango Chunks 120G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "50.91",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "11.2",
+    "storeId": "4558",
+    "storeAddress": "Silverdale Road,READING,BERKSHIRE",
+    "paymentType": [{
+      "type": "VisaCredit",
+      "category": "NA",
+      "amount": "50.91"
+    }],
+    "timeStamp": "2022-07-13 13:08:02.594",
+    "basketValueNet": "50.91",
+    "says": "NA",
+    "storeName": "READING SILVERDALE RD",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Philadelphia Original Soft Cream Cheese 165G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Red Onions (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Closed Cup Mushrooms 300G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 0% Fat Greek Style Yogurt 500G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Caramelised Onion Houmous 182G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cherry Tomatoes 300G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.95",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Ibuprofen 200Mg 16 Tablets",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.35",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cucumber Whole Each (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Toffee Popcorn 175G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.05",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Napolina Spaghetti Box 500G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Princes Tuna Chunks In Sunflower Oil 4X145g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "3.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Quaker Oat So Simple Golden Syrup Porridge Sachets 10x36g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mixed Peppers 420G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.35",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco British Semi Skimmed Milk 2.272L, 4 Pints",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Clementines 600G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest 6 Free Range Chestnut Maran Eggs",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Warburtons Soft & Sliced Sesame Bagels 5 Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mature Cheddar 400G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "3.2",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Ready To Eat Large Avocados Each (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Wholemeal Seeds And Grains Bread 800G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Quaker Oat So Simple Apple & Blueberry Porridge Sachets 10x36g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Maryland Chocolate Chip Cookies 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "BelVita Breakfast Soft Bakes Blueberry 5 Pack 250g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Paracetamol Tablets 500Mg 16 Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Banana Each (C)",
+      "quantity": "9",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.27",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Salsa 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pom Bear Original Crisps 6 X 13G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Sacla Classic Basil Pesto 290G 50% Extra Free",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Stonebaked Margherita Pizza 252G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Fox's Jam Sandwich Creams 150G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Hellmann's Real Mayonnaise Squeezy 430ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Braeburn Apples Minimum 5 Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Chickpeas In Water 400G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.65",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "1.3",
+    "storeId": "5875",
+    "storeAddress": "1, Market Rise,Cherryhinton Road,CAMBRIDGE,CAMBRIDGESHIRE",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "7.65"
+    }],
+    "timeStamp": "2022-06-14 12:14:19.740",
+    "basketValueNet": "7.65",
+    "says": "NA",
+    "storeName": "CAMBS CLIFTON RD EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Kellogg's Crunchy Nut Breakfast Cereal 500g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco British Semi Skimmed Milk 2.272L, 4 Pints",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Free Range 6 Medium Express Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 0% Fat Greek Style Yogurt 500G",
+      "quantity": "3",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "17.55",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.1",
+    "storeId": "5875",
+    "storeAddress": "1, Market Rise,Cherryhinton Road,CAMBRIDGE,CAMBRIDGESHIRE",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "12.85"
+    }],
+    "timeStamp": "2022-06-04 18:03:54.625",
+    "basketValueNet": "12.85",
+    "says": "NA",
+    "storeName": "CAMBS CLIFTON RD EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Cheesy Chips 400G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kellogg's Crunchy Nut Breakfast Cereal 500g",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Aubergine Each 250G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "The Laughing Cow Light Cheese Spread Triangles 16Pk 267G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Guacamole Dip 163G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco British Skimmed Milk 2.272L, 4 Pints",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Free Range 6 Medium Express Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Brown Onion Each (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Super Nutty Granola 500G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Houmous 200G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "28.8",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "2.95",
+    "storeId": "5875",
+    "storeAddress": "1, Market Rise,Cherryhinton Road,CAMBRIDGE,CAMBRIDGESHIRE",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "25.37"
+    }],
+    "timeStamp": "2022-05-23 20:08:47.164",
+    "basketValueNet": "25.37",
+    "says": "NA",
+    "storeName": "CAMBS CLIFTON RD EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Eat Natural Bars Maple Syrup Pecan & Peanut 45G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mushroom Stir Fry Mix 320G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.76",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Sweet Crisp Salad 128G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco British Skimmed Milk 2.272L, 4 Pints",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Crespo Pitted Black Olives 354G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Hartleys Strawberry 10Cal Jelly 175G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Super Nutty Granola 500G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 0% Fat Greek Style Yogurt 500G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Egg Noodles 300G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.84",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Black Beans 400G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Quadruple Strength Apple & Blackcurrant No Added Sugar 750Ml",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Free Range 6 Medium Express Pack",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "The City Kitchen Fire Banger Sauce 150G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Chickpeas In Water 400G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Babybel Light Cheese Apple & Grape 75G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.67",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kellogg's Frosties Cereal 500G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Clear Honey 454G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Italian Tomato Passata 500G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.45",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "20.25",
+    "purchaseType": "IN_STORE",
+    "overallBasketSavings": "3.8",
+    "storeId": "5875",
+    "storeAddress": "1, Market Rise,Cherryhinton Road,CAMBRIDGE,CAMBRIDGESHIRE",
+    "paymentType": [{
+      "type": "MastercardDebit",
+      "category": "NA",
+      "amount": "16.45"
+    }],
+    "timeStamp": "2022-05-16 15:42:25.538",
+    "basketValueNet": "16.45",
+    "says": "NA",
+    "storeName": "CAMBS CLIFTON RD EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Cadbury Milk Chocolate Fingers 125G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Aubergine Each 250G (C)",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Italian Peeled Plum Tomatoes 400G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Free Range 6 Medium Express Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "OREO Vanilla Cookie Sandwich Biscuits 154G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cathedral City Lighter Mature Cheese 350 G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "3.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Arla Bob Skimmed Milk 2 Litre",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Chickpeas In Water 400G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kit Kat 2 Finger Milk Chocolate Biscuit Bar Multipack 9 Pack",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 0% Fat Greek Style Yogurt 500G",
+      "quantity": "2",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kellogg's Frosties Cereal 500G",
+      "quantity": "1",
+      "channel": "IN_STORE",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }], [], [], [], [], [], []],
+  "Order": [[], [], [], [], []]
+}
