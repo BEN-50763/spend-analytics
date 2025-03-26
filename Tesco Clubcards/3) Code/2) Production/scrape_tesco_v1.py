@@ -119,9 +119,9 @@ def query_tesco_api(search_item, referrer, count, session=None):
             }
         #If this didn't work, response isn't what we've been hoping for, so try again 
         except requests.exceptions.RequestException as e:
-            logging.error(f"Error querying item {search_item}: {str(e)}")
             if attempt == max_retries - 1:
-                return {"status": f"API Call Unsuccessful: {str(e)}"}
+                logging.error(f"API Call Unsuccessful after {max_retries} attempts for {search_item}: {str(e)}")
+                return {"status": f"API Call Unsuccessful after {max_retries} attempts for {search_item}: {str(e)}"}
             #Exponential sleep if it fails
             time.sleep((2 ** attempt) + random.random())
 
@@ -171,11 +171,11 @@ def extract_best_match(target, candidates_dicts, model):
     result_dict = {}
 
     # If the dict isn't returned or there's no returned items at all, reflect no match
-    if not candidates_dicts or "page_information" not in candidates_dicts or not candidates_dicts["page_information"]:
+    if not candidates_dicts or "page_information" not in candidates_dicts or not candidates_dicts["page_information"] or "results" not in candidates_dicts or not candidates_dicts["results"]:
         result_dict["item_data"] = None
         result_dict["match_score"] = 0.0
         return result_dict
-    
+
     # Extract titles into a list
     titles = [item['node']['title'] for item in candidates_dicts['results']]
 
