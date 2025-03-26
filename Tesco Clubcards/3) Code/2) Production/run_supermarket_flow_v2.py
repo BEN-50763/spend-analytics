@@ -3,30 +3,56 @@ import logging
 from tqdm import tqdm
 import os
 import time
+from datetime import datetime
+from ruamel.yaml import YAML
 
 # Import processor functions
 from categorise_products_v1 import run_item_categoriser, validate_responses
 from scrape_tesco_v1 import run_tesco_scraper
 from probe_openfoodfacts_v1 import run_openfoodfacts_query
+from open_data_files_v1 import run_data_opener
 
 ######################
-# User definitons
+# Config set up
+######################
+# YAML Config file path
+config_file_path = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\3) Code\config.yaml"
+
+# YAML handler (preserves formatting, quotes, and wide lines)
+yaml_handler = YAML()
+yaml_handler.preserve_quotes = True
+yaml_handler.width = 4096  # prevent wrapping of long strings
+
+with open(config_file_path, 'r') as file:
+    config_data = yaml_handler.load(file)
+
+######################
+# Environment variables
 ######################
 
-# Batch size for processing before save to file
-batch_size = 100
+# Load from config
+batch_size = config_data['variables']['main_variables']['batch_size']
 
 # File paths
-all_item_input_file = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\2) Data\2) Data Preparations\all_items.xlsx"  # All items file (Excel with 'UID' and 'product name')
+all_items_input_file = config_data['file_paths']['main_paths']['all_items_input_file']
 
-# Categorisation output files
-categorisation_raw_output_file = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\2) Data\3) Outputs\All items\raw_responses.csv"  # Raw categorisation responses
-categorisation_valid_output_file = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\2) Data\3) Outputs\All items\categorised_products.csv"  # Valid categorisation outputs
-categorisation_invalid_output_file = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\2) Data\3) Outputs\All items\invalid_results.csv"  # Invalid categorisation outputs
+# Data opening
+userdata_last_unzip_timestamp = datetime.fromisoformat(config_data['variables']['opener_variables']['last_unzip'])
+userdata_zip_folder = config_data['file_paths']['opener_paths']['input_root_folder']
+userdata_unzipped_root_folder = config_data['file_paths']['opener_paths']['unzipped_output_folder']
+userdata_output_root_folder = config_data['file_paths']['opener_paths']['opened_output_folder']
 
-# Tesco and OFF output files
-tesco_output_file = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\2) Data\2) Data Preparations\2) Outputs\tesco_output.csv"  # Tesco output CSV
-off_output_file = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\2) Data\2) Data Preparations\\2) Outputs\off_output.csv"  # OFF output CSV
+# Categorisation
+categorisation_raw_output_file = config_data['file_paths']['categoriser_paths']['categorisation_raw_output_file']
+categorisation_valid_output_file = config_data['file_paths']['categoriser_paths']['categorisation_valid_output_file']
+categorisation_invalid_output_file = config_data['file_paths']['categoriser_paths']['categorisation_invalid_output_file']
+categorisation_batch_size = config_data["variables"]["categoriser_variables"]["batch_size"]
+categorisation_gpt_api_key = config_data["variables"]["categoriser_variables"]["gpt_api_key"]
+categorisation_gpt_model = config_data["variables"]["categoriser_variables"]["gpt_model"]
+
+# Tesco and OFF output
+tesco_output_file = config_data['file_paths']['scraper_paths']['tesco_output_file']
+off_output_file = config_data['file_paths']['prober_paths']['off_output_file']
 
 # Define columns for saving data
 # Tesco scrape columns
@@ -80,6 +106,14 @@ logger.addHandler(TqdmLoggingHandler())
 # Helper functions
 ######################
 
+# Function to update the unzip timestamp in config
+def update_last_unzip_time(config_file_path, config_data, updated_timestamp):
+    # Update the timestamp in our in-memory config_data
+    config_data['variables']['opener_variables']['last_unzip'] = updated_timestamp
+    # Write it back to disk
+    with open(config_file_path, 'w') as file:
+        yaml_handler.dump(config_data, file)
+
 # Function to ensure the DataFrame has all required columns; adds missing columns with None values
 def ensure_consistent_columns(df, columns):
     for column in columns:
@@ -115,6 +149,29 @@ def filter_dataframe(df, column, processed_set):
 # Main functions
 ######################
 
+# Function to unzip new or modified files
+def userdata_run_flow(df_all, config_file_path, all_items_input_file, userdata_zip_folder, userdata_unzipped_root_folder, userdata_output_root_folder, userdata_last_unzip_timestamp):
+    initial_all_len = len(df_all)
+    files_to_unzip = [] # Track new ifiles
+    # Loop through all files in the folder
+    for file_name in os.listdir(userdata_zip_folder):
+        # Make sure it ends with '.zip'
+        if file_name.lower().endswith('.zip'):
+            zip_file_path = os.path.join(userdata_zip_folder, file_name)
+            file_modified_time = datetime.fromtimestamp(os.path.getmtime(zip_file_path))
+            # If the ZIP was modified more recently than our last opening run
+            if file_modified_time > userdata_last_unzip_timestamp:
+                files_to_unzip.append(zip_file_path)
+    if not files_to_unzip:
+        logging.critical("No new ZIP files to open.")
+        return  
+    logging.critical(f"Opening {len(files_to_unzip)} new ZIP files.")
+    df_all, updated_timestamp = run_data_opener(files_to_unzip, userdata_output_root_folder, userdata_unzipped_root_folder, df_all, all_items_input_file)
+    logging.critical(f"Saving new 'all items' file with {len(df_all)} products (previously {initial_all_len})")
+    df_all.to_csv(all_items_input_file, index=False)
+    # Update config file to show recent unzip time
+    update_last_unzip_time(config_file_path, config_data, updated_timestamp)
+
 # Function to process a batch of items for categorisation: filters out already processed items, processes the batch, and saves outputs
 def categorisation_run_flow(df, raw_output_file, valid_output_file, invalid_output_file):
     if df.empty:
@@ -122,7 +179,7 @@ def categorisation_run_flow(df, raw_output_file, valid_output_file, invalid_outp
         return
     logging.critical(f"Categorising {len(df)} new items in current batch.")
     import asyncio
-    results = asyncio.run(run_item_categoriser(df))  # Run categorisation asynchronously
+    results = asyncio.run(run_item_categoriser(df,categorisation_batch_size, categorisation_gpt_api_key, categorisation_gpt_model))  # Run categorisation asynchronously
     save_data(results, raw_output_file, raw_categorised_output_cols)  # Save raw responses
     valid_entries, invalid_entries = validate_responses(results)  # Validate responses
     if valid_entries:
@@ -153,7 +210,7 @@ def off_run_flow(df, output_file):
         return
     # Reset index to preserve ordering
     df = df.reset_index(drop=True)
-    barcodes = df['barcode'].tolist()
+    barcodes = [int(float(b)) if pd.notnull(b) else None for b in df['barcode']] # Force them all as int and keep None values
     uids = df['UID'].tolist()
     results = run_openfoodfacts_query(barcodes)
     # Reattach UID and flatten the OFF_nutriments dictionary without extra prefix
@@ -171,9 +228,17 @@ def off_run_flow(df, output_file):
 
 # Function to run the entire supermarket flow in batches, sequentially processing categorisation, Tesco, then OFF stages
 def run_supermarket_flow_batch(batch_size):
-    # Categorisation Stage: process the entire input Excel file in batches
+
+    # User data stage: open any new data files and add them to all_items with UIDs
+    logging.critical(f"\n\nUser data collection: opening new data files.")
     # Find new items to categorise
-    df_all = pd.read_excel(all_item_input_file)  # Read all items from Excel
+    df_all = pd.read_csv(all_items_input_file)  # Read all items from CSV
+    # Find any new data files and open them for processing
+    userdata_run_flow(df_all, config_file_path, all_items_input_file, userdata_zip_folder, userdata_unzipped_root_folder, userdata_output_root_folder, userdata_last_unzip_timestamp)
+
+    # Categorisation Stage: process the entire input CSV file in batches
+    # Find new items to categorise
+    df_all = pd.read_csv(all_items_input_file)  # Read all items from CSV
     processed_UIDs = get_processed_entries(categorisation_valid_output_file, 'UID')  # Get already processed UIDs
     df_all = df_all[~df_all['UID'].isin(processed_UIDs)]  # Filter out processed items
     logging.critical(f"\n\nPRODUCT CATEGORISATION: {len(df_all)} new items to categorise.")
@@ -189,8 +254,8 @@ def run_supermarket_flow_batch(batch_size):
     
     # Tesco Stage: process the original input file in batches for Tesco scraping
     # Find new items to categorise
-    df_all = pd.read_excel(all_item_input_file)  # Re-read all items to preserve original order
-    processed_UIDs = get_processed_entries(categorisation_valid_output_file, 'UID')  # Get already processed UIDs
+    df_all = pd.read_csv(all_items_input_file)  # Re-read all items to preserve original order
+    processed_UIDs = get_processed_entries(tesco_output_file, 'UID')  # Get already processed UIDs
     df_all = df_all[~df_all['UID'].isin(processed_UIDs)]  # Filter out processed items
     logging.critical(f"\n\nTESCO SCRAPE: {len(df_all)} new items to scrape.")
     # Begin processing in batches

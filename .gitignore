@@ -1,6 +1,7 @@
 #Custom added file types: jsonl - formatted training data, gsheet as git can't push it
 *.jsonl 
 *.gsheet
+*.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

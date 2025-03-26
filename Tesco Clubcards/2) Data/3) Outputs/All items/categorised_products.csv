@@ -6467,3 +6467,1195 @@ ID_1824,Other DIY & car care,Flavours,Non food,1
 ID_1828,Other washing,Flavours,Non food,1
 ID_1841,Other personal care,Flavours,Non food,1
 ID_1850,Other personal care,Flavours,Non food,1
+ID_1872,"Sandwiches, wraps & sushi",Characteristics,Grab & go prepared food or drink,1
+ID_1872,"Sandwiches, wraps & sushi",Characteristics,Contains meat,1
+ID_1872,"Sandwiches, wraps & sushi",Characteristics,British cuisine,1
+ID_1872,"Sandwiches, wraps & sushi",Characteristics,Unhealthy option,1
+ID_1872,"Sandwiches, wraps & sushi",Characteristics,Fresh,1
+ID_1872,"Sandwiches, wraps & sushi",Flavours,Salty,1
+ID_1872,"Sandwiches, wraps & sushi",Flavours,Savoury,1
+ID_1873,Soft & spreadable cheese,Characteristics,Contains meat,1
+ID_1873,Soft & spreadable cheese,Characteristics,Grab & go prepared food or drink,1
+ID_1873,Soft & spreadable cheese,Characteristics,Unhealthy option,1
+ID_1873,Soft & spreadable cheese,Characteristics,Fresh,1
+ID_1873,Soft & spreadable cheese,Flavours,Salty,1
+ID_1873,Soft & spreadable cheese,Flavours,Neutral,1
+ID_1873,Soft & spreadable cheese,Flavours,Savoury,1
+ID_1873,Soft & spreadable cheese,Flavours,Sweet,1
+ID_1874,Mushrooms,Characteristics,Health food or drink,1
+ID_1874,Mushrooms,Characteristics,Fresh,1
+ID_1874,Mushrooms,Flavours,Umami,1
+ID_1874,Mushrooms,Flavours,Savoury,1
+ID_1875,Dips,Characteristics,Contains meat,1
+ID_1875,Dips,Characteristics,Grab & go prepared food or drink,1
+ID_1875,Dips,Characteristics,Fresh,1
+ID_1875,Dips,Characteristics,Unhealthy option,1
+ID_1875,Dips,Flavours,Salty,1
+ID_1875,Dips,Flavours,Savoury,1
+ID_1875,Dips,Flavours,Sweet,1
+ID_1876,Citrus fruit,Characteristics,Health food or drink,1
+ID_1876,Citrus fruit,Characteristics,Fresh,1
+ID_1876,Citrus fruit,Flavours,Sweet,1
+ID_1877,"Cheesecake, egg custard tarts & trifles",Characteristics,Grab & go prepared food or drink,1
+ID_1877,"Cheesecake, egg custard tarts & trifles",Characteristics,British cuisine,1
+ID_1877,"Cheesecake, egg custard tarts & trifles",Characteristics,Contains seafood,1
+ID_1877,"Cheesecake, egg custard tarts & trifles",Characteristics,Unhealthy option,1
+ID_1877,"Cheesecake, egg custard tarts & trifles",Characteristics,Fresh,1
+ID_1877,"Cheesecake, egg custard tarts & trifles",Flavours,Sweet,1
+ID_1878,Jams,Characteristics,Unhealthy option,1
+ID_1878,Jams,Flavours,Sweet,1
+ID_1879,Peanut & nut butter,Characteristics,Organic or additive free,1
+ID_1879,Peanut & nut butter,Characteristics,Contains meat,1
+ID_1879,Peanut & nut butter,Characteristics,Health food or drink,1
+ID_1879,Peanut & nut butter,Flavours,Neutral,1
+ID_1880,Mayonnaise,Characteristics,Unhealthy option,1
+ID_1880,Mayonnaise,Characteristics,Low calorie alternative,1
+ID_1880,Mayonnaise,Characteristics,Animal produce,1
+ID_1880,Mayonnaise,Flavours,Savoury,1
+ID_1881,"Scones, teacakes & crumpets",Characteristics,British cuisine,1
+ID_1881,"Scones, teacakes & crumpets",Characteristics,Unhealthy option,1
+ID_1881,"Scones, teacakes & crumpets",Characteristics,Grab & go prepared food or drink,1
+ID_1881,"Scones, teacakes & crumpets",Characteristics,Fresh,1
+ID_1881,"Scones, teacakes & crumpets",Flavours,Sweet,1
+ID_1882,Bread loaves,Characteristics,Contains seafood,1
+ID_1882,Bread loaves,Characteristics,Grab & go prepared food or drink,1
+ID_1882,Bread loaves,Characteristics,Fresh,1
+ID_1882,Bread loaves,Characteristics,Unhealthy option,1
+ID_1882,Bread loaves,Flavours,Neutral,1
+ID_1883,Peanut & nut butter,Characteristics,Contains meat,1
+ID_1883,Peanut & nut butter,Characteristics,Health food or drink,1
+ID_1883,Peanut & nut butter,Flavours,Sweet,1
+ID_1884,Other home maintenance,Flavours,Non food,1
+ID_1885,Other washing,Flavours,Non food,1
+ID_1886,Other home maintenance,Flavours,Non food,1
+ID_1887,Other personal care,Flavours,Non food,1
+ID_1888,Fresh flowers,Flavours,Non food,1
+ID_1889,Other tea,Characteristics,British cuisine,1
+ID_1889,Other tea,Characteristics,Just cook food,1
+ID_1889,Other tea,Characteristics,Organic or additive free,1
+ID_1889,Other tea,Flavours,Neutral,1
+ID_1890,Dips,Characteristics,Grab & go prepared food or drink,1
+ID_1890,Dips,Characteristics,Contains seafood,1
+ID_1890,Dips,Characteristics,Fresh,1
+ID_1890,Dips,Characteristics,Unhealthy option,1
+ID_1890,Dips,Flavours,Salty,1
+ID_1890,Dips,Flavours,Savoury,1
+ID_1890,Dips,Flavours,Sweet,1
+ID_1891,Speciality breads,Characteristics,Contains meat,1
+ID_1891,Speciality breads,Characteristics,British cuisine,1
+ID_1891,Speciality breads,Characteristics,Fresh,1
+ID_1891,Speciality breads,Characteristics,Unhealthy option,1
+ID_1891,Speciality breads,Flavours,Neutral,1
+ID_1892,Tinned vegetables,Characteristics,Just cook food,1
+ID_1892,Tinned vegetables,Flavours,Salty,1
+ID_1892,Tinned vegetables,Flavours,Savoury,1
+ID_1892,Tinned vegetables,Flavours,Umami,1
+ID_1893,Other vegetables,Characteristics,Health food or drink,1
+ID_1893,Other vegetables,Characteristics,Fresh,1
+ID_1893,Other vegetables,Flavours,Savoury,1
+ID_1894,Rolls & buns,Characteristics,British cuisine,1
+ID_1894,Rolls & buns,Characteristics,Just cook food,1
+ID_1894,Rolls & buns,Characteristics,Fresh,1
+ID_1894,Rolls & buns,Flavours,Neutral,1
+ID_1895,Bread loaves,Characteristics,Grab & go prepared food or drink,1
+ID_1895,Bread loaves,Characteristics,Health food or drink,1
+ID_1895,Bread loaves,Characteristics,Fresh,1
+ID_1895,Bread loaves,Flavours,Neutral,1
+ID_1896,Other washing,Flavours,Non food,1
+ID_1897,Other milky drinks,Characteristics,Grab & go prepared food or drink,1
+ID_1897,Other milky drinks,Characteristics,Vegetarian or vegan alternative,1
+ID_1897,Other milky drinks,Characteristics,Low calorie alternative,1
+ID_1897,Other milky drinks,Characteristics,Health food or drink,1
+ID_1897,Other milky drinks,Characteristics,Fresh,1
+ID_1897,Other milky drinks,Flavours,Sweet,1
+ID_1898,Other pastries,Characteristics,Grab & go prepared food or drink,1
+ID_1898,Other pastries,Characteristics,Unhealthy option,1
+ID_1898,Other pastries,Characteristics,Fresh,1
+ID_1898,Other pastries,Flavours,Sweet,1
+ID_1899,Other beer & cider,Flavours,Neutral,1
+ID_1900,Wraps,Flavours,Neutral,1
+ID_1901,Mini pizza & pockets,Characteristics,Grab & go prepared food or drink,1
+ID_1901,Mini pizza & pockets,Characteristics,Unhealthy option,1
+ID_1901,Mini pizza & pockets,Characteristics,Just cook food,1
+ID_1901,Mini pizza & pockets,Characteristics,Fresh,1
+ID_1901,Mini pizza & pockets,Flavours,Salty,1
+ID_1901,Mini pizza & pockets,Flavours,Sweet,1
+ID_1902,"Sandwiches, wraps & sushi",Characteristics,Grab & go prepared food or drink,1
+ID_1902,"Sandwiches, wraps & sushi",Characteristics,Contains meat,1
+ID_1902,"Sandwiches, wraps & sushi",Characteristics,British cuisine,1
+ID_1902,"Sandwiches, wraps & sushi",Characteristics,Fresh,1
+ID_1902,"Sandwiches, wraps & sushi",Characteristics,Unhealthy option,1
+ID_1902,"Sandwiches, wraps & sushi",Flavours,Salty,1
+ID_1902,"Sandwiches, wraps & sushi",Flavours,Savoury,1
+ID_1902,"Sandwiches, wraps & sushi",Flavours,Umami,1
+ID_1903,Wraps,Characteristics,Just cook food,1
+ID_1903,Wraps,Characteristics,Vegetarian or vegan alternative,1
+ID_1903,Wraps,Characteristics,Grab & go prepared food or drink,1
+ID_1903,Wraps,Characteristics,South Asian cuisine,1
+ID_1903,Wraps,Characteristics,Unhealthy option,1
+ID_1903,Wraps,Flavours,Salty,1
+ID_1903,Wraps,Flavours,Savoury,1
+ID_1904,Other fizzy pop,Characteristics,Grab & go prepared food or drink,1
+ID_1904,Other fizzy pop,Characteristics,Health food or drink,1
+ID_1904,Other fizzy pop,Characteristics,Organic or additive free,1
+ID_1904,Other fizzy pop,Characteristics,Alcohol free alternative,1
+ID_1904,Other fizzy pop,Flavours,Sweet,1
+ID_1904,Other fizzy pop,Flavours,Sour,1
+ID_1905,Berries & cherries,Characteristics,Health food or drink,1
+ID_1905,Berries & cherries,Characteristics,Fresh,1
+ID_1905,Berries & cherries,Characteristics,British cuisine,1
+ID_1905,Berries & cherries,Flavours,Sweet,1
+ID_1906,Berries & cherries,Characteristics,Health food or drink,1
+ID_1906,Berries & cherries,Characteristics,Fresh,1
+ID_1906,Berries & cherries,Flavours,Sweet,1
+ID_1907,Eggs,Characteristics,Contains meat,1
+ID_1907,Eggs,Characteristics,Fresh,1
+ID_1907,Eggs,Flavours,Neutral,1
+ID_1908,Oils & cooking fats,Characteristics,Mediterranean cuisine,1
+ID_1908,Oils & cooking fats,Flavours,Neutral,1
+ID_1909,Olives & antipasti,Characteristics,Mediterranean cuisine,1
+ID_1909,Olives & antipasti,Characteristics,Just cook food,1
+ID_1909,Olives & antipasti,Characteristics,Unhealthy option,1
+ID_1909,Olives & antipasti,Characteristics,Fresh,1
+ID_1909,Olives & antipasti,Flavours,Salty,1
+ID_1909,Olives & antipasti,Flavours,Savoury,1
+ID_1909,Olives & antipasti,Flavours,Umami,1
+ID_1910,Peppers,Characteristics,Health food or drink,1
+ID_1910,Peppers,Characteristics,Fresh,1
+ID_1910,Peppers,Flavours,Savoury,1
+ID_1911,Lettuce & salad bags,Characteristics,Health food or drink,1
+ID_1911,Lettuce & salad bags,Characteristics,Fresh,1
+ID_1911,Lettuce & salad bags,Flavours,Salty,1
+ID_1911,Lettuce & salad bags,Flavours,Sweet,1
+ID_1912,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_1912,Other fruit juice,Characteristics,Unhealthy option,1
+ID_1912,Other fruit juice,Flavours,Sweet,1
+ID_1913,Meatballs,Characteristics,Vegetarian or vegan alternative,1
+ID_1913,Meatballs,Characteristics,Just cook food,1
+ID_1913,Meatballs,Characteristics,Frozen food,1
+ID_1913,Meatballs,Characteristics,Unhealthy option,1
+ID_1913,Meatballs,Flavours,Umami,1
+ID_1913,Meatballs,Flavours,Savoury,1
+ID_1914,Dips,Characteristics,Grab & go prepared food or drink,1
+ID_1914,Dips,Characteristics,Contains seafood,1
+ID_1914,Dips,Characteristics,Fresh,1
+ID_1914,Dips,Characteristics,Unhealthy option,1
+ID_1914,Dips,Flavours,Salty,1
+ID_1914,Dips,Flavours,Savoury,1
+ID_1914,Dips,Flavours,Sweet,1
+ID_1915,Whisky,Characteristics,American cuisine,1
+ID_1915,Whisky,Characteristics,Alcohol free alternative,1
+ID_1915,Whisky,Flavours,Neutral,1
+ID_1916,Citrus fruit,Characteristics,Health food or drink,1
+ID_1916,Citrus fruit,Characteristics,Fresh,1
+ID_1916,Citrus fruit,Flavours,Sweet,1
+ID_1917,Other personal care,Flavours,Non food,1
+ID_1918,Avocado,Characteristics,Grab & go prepared food or drink,1
+ID_1918,Avocado,Characteristics,Fresh,1
+ID_1918,Avocado,Characteristics,Health food or drink,1
+ID_1918,Avocado,Flavours,Sweet,1
+ID_1919,Other personal care,Flavours,Non food,1
+ID_1920,Fresh flowers,Flavours,Non food,1
+ID_1921,Other pastries,Characteristics,Grab & go prepared food or drink,1
+ID_1921,Other pastries,Characteristics,Unhealthy option,1
+ID_1921,Other pastries,Characteristics,Fresh,1
+ID_1921,Other pastries,Flavours,Sweet,1
+ID_1922,Filled pastries & profiteroles,Characteristics,Unhealthy option,1
+ID_1922,Filled pastries & profiteroles,Characteristics,French cuisine,1
+ID_1922,Filled pastries & profiteroles,Characteristics,Grab & go prepared food or drink,1
+ID_1922,Filled pastries & profiteroles,Characteristics,Contains meat,1
+ID_1922,Filled pastries & profiteroles,Flavours,Sweet,1
+ID_1923,Other starters & sides,Characteristics,British cuisine,1
+ID_1923,Other starters & sides,Characteristics,Just cook food,1
+ID_1923,Other starters & sides,Characteristics,South Asian cuisine,1
+ID_1923,Other starters & sides,Characteristics,Contains meat,1
+ID_1923,Other starters & sides,Characteristics,Unhealthy option,1
+ID_1923,Other starters & sides,Flavours,Salty,1
+ID_1923,Other starters & sides,Flavours,Savoury,1
+ID_1923,Other starters & sides,Flavours,Umami,1
+ID_1924,Energy drinks,Characteristics,Grab & go prepared food or drink,1
+ID_1924,Energy drinks,Characteristics,Health food or drink,1
+ID_1924,Energy drinks,Flavours,Sweet,1
+ID_1925,Rolls & buns,Characteristics,British cuisine,1
+ID_1925,Rolls & buns,Characteristics,Just cook food,1
+ID_1925,Rolls & buns,Characteristics,Fresh,1
+ID_1925,Rolls & buns,Characteristics,Unhealthy option,1
+ID_1925,Rolls & buns,Flavours,Neutral,1
+ID_1926,Other medicine,Characteristics,Grab & go prepared food or drink,1
+ID_1926,Other medicine,Flavours,Neutral,1
+ID_1927,Broccoli & cauliflower,Characteristics,Health food or drink,1
+ID_1927,Broccoli & cauliflower,Characteristics,Fresh,1
+ID_1927,Broccoli & cauliflower,Flavours,Salty,1
+ID_1927,Broccoli & cauliflower,Flavours,Savoury,1
+ID_1928,Apples & pears,Characteristics,Health food or drink,1
+ID_1928,Apples & pears,Characteristics,Fresh,1
+ID_1928,Apples & pears,Flavours,Sweet,1
+ID_1929,Porridge & oats,Characteristics,Health food or drink,1
+ID_1929,Porridge & oats,Characteristics,Fresh,1
+ID_1929,Porridge & oats,Flavours,Sweet,1
+ID_1930,Tinned vegetables,Characteristics,Just cook food,1
+ID_1930,Tinned vegetables,Flavours,Savoury,1
+ID_1931,Coconut water,Characteristics,Health food or drink,1
+ID_1931,Coconut water,Characteristics,Grab & go prepared food or drink,1
+ID_1931,Coconut water,Characteristics,Low calorie alternative,1
+ID_1931,Coconut water,Characteristics,Vegetarian or vegan alternative,1
+ID_1931,Coconut water,Characteristics,Fresh,1
+ID_1931,Coconut water,Flavours,Sweet,1
+ID_1932,Tofu & tempeh,Characteristics,Vegetarian or vegan alternative,1
+ID_1932,Tofu & tempeh,Characteristics,Organic or additive free,1
+ID_1932,Tofu & tempeh,Characteristics,Just cook food,1
+ID_1932,Tofu & tempeh,Characteristics,Health food or drink,1
+ID_1932,Tofu & tempeh,Flavours,Neutral,1
+ID_1933,Garlic bread & dough balls,Characteristics,Just cook food,1
+ID_1933,Garlic bread & dough balls,Characteristics,Unhealthy option,1
+ID_1933,Garlic bread & dough balls,Flavours,Savoury,1
+ID_1933,Garlic bread & dough balls,Flavours,Salty,1
+ID_1934,Other cooking flavours & essentials,Characteristics,Just cook food,1
+ID_1934,Other cooking flavours & essentials,Characteristics,Contains meat,1
+ID_1934,Other cooking flavours & essentials,Characteristics,British cuisine,1
+ID_1934,Other cooking flavours & essentials,Flavours,Umami,1
+ID_1934,Other cooking flavours & essentials,Flavours,Savoury,1
+ID_1934,Other cooking flavours & essentials,Flavours,Salty,1
+ID_1935,"Herbs, spices, chillies, garlic & ginger",Characteristics,Fresh,1
+ID_1935,"Herbs, spices, chillies, garlic & ginger",Characteristics,Health food or drink,1
+ID_1935,"Herbs, spices, chillies, garlic & ginger",Flavours,Savoury,1
+ID_1936,Tinned fish & seafood,Characteristics,Contains seafood,1
+ID_1936,Tinned fish & seafood,Flavours,Umami,1
+ID_1936,Tinned fish & seafood,Flavours,Savoury,1
+ID_1937,Other shellfish,Characteristics,Contains seafood,1
+ID_1937,Other shellfish,Flavours,Salty,1
+ID_1937,Other shellfish,Flavours,Umami,1
+ID_1937,Other shellfish,Flavours,Savoury,1
+ID_1938,Chicken,Characteristics,Contains meat,1
+ID_1938,Chicken,Characteristics,Fresh,1
+ID_1938,Chicken,Characteristics,Halal,1
+ID_1938,Chicken,Characteristics,Grab & go prepared food or drink,1
+ID_1938,Chicken,Flavours,Umami,1
+ID_1938,Chicken,Flavours,Savoury,1
+ID_1939,Dips,Characteristics,Grab & go prepared food or drink,1
+ID_1939,Dips,Characteristics,Contains seafood,1
+ID_1939,Dips,Characteristics,Unhealthy option,1
+ID_1939,Dips,Flavours,Salty,1
+ID_1939,Dips,Flavours,Savoury,1
+ID_1940,"Spring onions, radish & beetroot",Characteristics,Health food or drink,1
+ID_1940,"Spring onions, radish & beetroot",Characteristics,Fresh,1
+ID_1940,"Spring onions, radish & beetroot",Flavours,Savoury,1
+ID_1941,Wraps,Characteristics,Just cook food,1
+ID_1941,Wraps,Characteristics,Health food or drink,1
+ID_1941,Wraps,Characteristics,Fresh,1
+ID_1941,Wraps,Flavours,Neutral,1
+ID_1942,Other office,Flavours,Non food,1
+ID_1943,Berries & cherries,Characteristics,Health food or drink,1
+ID_1943,Berries & cherries,Characteristics,Fresh,1
+ID_1943,Berries & cherries,Flavours,Sweet,1
+ID_1944,Avocado,Characteristics,Health food or drink,1
+ID_1944,Avocado,Characteristics,Fresh,1
+ID_1944,Avocado,Flavours,Sweet,1
+ID_1945,"Sandwiches, wraps & sushi",Characteristics,Grab & go prepared food or drink,1
+ID_1945,"Sandwiches, wraps & sushi",Characteristics,Special event or occasion,1
+ID_1945,"Sandwiches, wraps & sushi",Characteristics,Contains seafood,1
+ID_1945,"Sandwiches, wraps & sushi",Characteristics,British cuisine,1
+ID_1945,"Sandwiches, wraps & sushi",Characteristics,Fresh,1
+ID_1945,"Sandwiches, wraps & sushi",Flavours,Salty,1
+ID_1945,"Sandwiches, wraps & sushi",Flavours,Savoury,1
+ID_1945,"Sandwiches, wraps & sushi",Flavours,Sweet,1
+ID_1946,Energy drinks,Characteristics,Grab & go prepared food or drink,1
+ID_1946,Energy drinks,Characteristics,Unhealthy option,1
+ID_1946,Energy drinks,Characteristics,Fresh,1
+ID_1946,Energy drinks,Flavours,Sweet,1
+ID_1946,Energy drinks,Flavours,Sour,1
+ID_1947,"Hash browns, onion rings & croquettes",Characteristics,Just cook food,1
+ID_1947,"Hash browns, onion rings & croquettes",Characteristics,Unhealthy option,1
+ID_1947,"Hash browns, onion rings & croquettes",Characteristics,Frozen food,1
+ID_1947,"Hash browns, onion rings & croquettes",Flavours,Salty,1
+ID_1947,"Hash browns, onion rings & croquettes",Flavours,Savoury,1
+ID_1948,Squash & cordial,Characteristics,Unhealthy option,1
+ID_1948,Squash & cordial,Flavours,Sweet,1
+ID_1949,Other prepared meat,Characteristics,Just cook food,1
+ID_1949,Other prepared meat,Characteristics,American cuisine,1
+ID_1949,Other prepared meat,Characteristics,Contains meat,1
+ID_1949,Other prepared meat,Characteristics,Unhealthy option,1
+ID_1949,Other prepared meat,Characteristics,Grab & go prepared food or drink,1
+ID_1949,Other prepared meat,Flavours,Umami,1
+ID_1949,Other prepared meat,Flavours,Savoury,1
+ID_1949,Other prepared meat,Flavours,Salty,1
+ID_1950,Other beer & cider,Flavours,Neutral,1
+ID_1951,"Cheesecake, egg custard tarts & trifles",Characteristics,Grab & go prepared food or drink,1
+ID_1951,"Cheesecake, egg custard tarts & trifles",Characteristics,British cuisine,1
+ID_1951,"Cheesecake, egg custard tarts & trifles",Characteristics,Unhealthy option,1
+ID_1951,"Cheesecake, egg custard tarts & trifles",Characteristics,Special event or occasion,1
+ID_1951,"Cheesecake, egg custard tarts & trifles",Characteristics,Fresh,1
+ID_1951,"Cheesecake, egg custard tarts & trifles",Flavours,Sweet,1
+ID_1952,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_1952,Other fruit juice,Characteristics,Fresh,1
+ID_1952,Other fruit juice,Characteristics,Unhealthy option,1
+ID_1952,Other fruit juice,Flavours,Sweet,1
+ID_1953,Ice cream,Characteristics,Frozen food,1
+ID_1953,Ice cream,Characteristics,Grab & go prepared food or drink,1
+ID_1953,Ice cream,Characteristics,Low calorie alternative,1
+ID_1953,Ice cream,Characteristics,Unhealthy option,1
+ID_1953,Ice cream,Characteristics,Animal produce,1
+ID_1953,Ice cream,Flavours,Sweet,1
+ID_1954,Other chilled desserts,Characteristics,Grab & go prepared food or drink,1
+ID_1954,Other chilled desserts,Characteristics,British cuisine,1
+ID_1954,Other chilled desserts,Characteristics,Unhealthy option,1
+ID_1954,Other chilled desserts,Characteristics,Fresh,1
+ID_1954,Other chilled desserts,Flavours,Sweet,1
+ID_1955,Fresh flowers,Flavours,Non food,1
+ID_1956,Just heat burgers,Characteristics,Just cook food,1
+ID_1956,Just heat burgers,Characteristics,American cuisine,1
+ID_1956,Just heat burgers,Characteristics,Contains meat,1
+ID_1956,Just heat burgers,Characteristics,Unhealthy option,1
+ID_1956,Just heat burgers,Flavours,Umami,1
+ID_1956,Just heat burgers,Flavours,Savoury,1
+ID_1956,Just heat burgers,Flavours,Salty,1
+ID_1957,Vape,Flavours,Non food,1
+ID_1958,Specialty & continental cheese,Characteristics,Contains seafood,1
+ID_1958,Specialty & continental cheese,Characteristics,Grab & go prepared food or drink,1
+ID_1958,Specialty & continental cheese,Characteristics,Unhealthy option,1
+ID_1958,Specialty & continental cheese,Flavours,Salty,1
+ID_1958,Specialty & continental cheese,Flavours,Savoury,1
+ID_1958,Specialty & continental cheese,Flavours,Spicy,1
+ID_1959,Apples & pears,Characteristics,Health food or drink,1
+ID_1959,Apples & pears,Characteristics,Fresh,1
+ID_1959,Apples & pears,Flavours,Sweet,1
+ID_1960,Butter & margarine,Characteristics,British cuisine,1
+ID_1960,Butter & margarine,Characteristics,Animal produce,1
+ID_1960,Butter & margarine,Characteristics,Unhealthy option,1
+ID_1960,Butter & margarine,Flavours,Salty,1
+ID_1960,Butter & margarine,Flavours,Sweet,1
+ID_1961,Other deli counter,Characteristics,Contains meat,1
+ID_1961,Other deli counter,Characteristics,Grab & go prepared food or drink,1
+ID_1961,Other deli counter,Characteristics,Fresh,1
+ID_1961,Other deli counter,Characteristics,Unhealthy option,1
+ID_1961,Other deli counter,Flavours,Salty,1
+ID_1961,Other deli counter,Flavours,Savoury,1
+ID_1961,Other deli counter,Flavours,Sweet,1
+ID_1962,Earl grey & speciality tea bags,Characteristics,Health food or drink,1
+ID_1962,Earl grey & speciality tea bags,Characteristics,Decaf alternative,1
+ID_1962,Earl grey & speciality tea bags,Flavours,Bitter,1
+ID_1963,Broccoli & cauliflower,Characteristics,Health food or drink,1
+ID_1963,Broccoli & cauliflower,Characteristics,Fresh,1
+ID_1963,Broccoli & cauliflower,Flavours,Savoury,1
+ID_1964,Potato-based crisps,Characteristics,Unhealthy option,1
+ID_1964,Potato-based crisps,Characteristics,Grab & go prepared food or drink,1
+ID_1964,Potato-based crisps,Flavours,Salty,1
+ID_1964,Potato-based crisps,Flavours,Savoury,1
+ID_1964,Potato-based crisps,Flavours,Sweet,1
+ID_1964,Potato-based crisps,Flavours,Spicy,1
+ID_1965,Nuts,Characteristics,Health food or drink,1
+ID_1965,Nuts,Characteristics,Grab & go prepared food or drink,1
+ID_1965,Nuts,Characteristics,Fresh,1
+ID_1965,Nuts,Flavours,Sweet,1
+ID_1966,Mustard,Characteristics,British cuisine,1
+ID_1966,Mustard,Characteristics,Unhealthy option,1
+ID_1966,Mustard,Flavours,Savoury,1
+ID_1966,Mustard,Flavours,Salty,1
+ID_1967,Carrots & other root vegetables,Characteristics,Health food or drink,1
+ID_1967,Carrots & other root vegetables,Characteristics,Fresh,1
+ID_1967,Carrots & other root vegetables,Flavours,Savoury,1
+ID_1968,Grapes,Characteristics,Health food or drink,1
+ID_1968,Grapes,Flavours,Sweet,1
+ID_1969,Pizza,Characteristics,Just cook food,1
+ID_1969,Pizza,Characteristics,Unhealthy option,1
+ID_1969,Pizza,Characteristics,Italian cuisine,1
+ID_1969,Pizza,Characteristics,Contains meat,1
+ID_1969,Pizza,Characteristics,Grab & go prepared food or drink,1
+ID_1969,Pizza,Flavours,Salty,1
+ID_1969,Pizza,Flavours,Savoury,1
+ID_1969,Pizza,Flavours,Umami,1
+ID_1969,Pizza,Flavours,Sweet,1
+ID_1970,Other cream,Characteristics,Vegetarian or vegan alternative,1
+ID_1970,Other cream,Characteristics,Unhealthy option,1
+ID_1970,Other cream,Characteristics,Grab & go prepared food or drink,1
+ID_1970,Other cream,Flavours,Sweet,1
+ID_1971,Other cooking flavours & essentials,Characteristics,British cuisine,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Just cook food,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Contains meat,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Unhealthy option,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Special event or occasion,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Northern African cuisine,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Vegetarian or vegan alternative,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Germanic and Slavic cuisine,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Italian cuisine,1
+ID_1971,Other cooking flavours & essentials,Characteristics,Southeast Asian cuisine,1
+ID_1971,Other cooking flavours & essentials,Flavours,Salty,1
+ID_1971,Other cooking flavours & essentials,Flavours,Savoury,1
+ID_1971,Other cooking flavours & essentials,Flavours,Sweet,1
+ID_1972,Instant coffee,Characteristics,Just cook food,1
+ID_1972,Instant coffee,Characteristics,Unhealthy option,1
+ID_1972,Instant coffee,Flavours,Bitter,1
+ID_1973,Tomatoes,Characteristics,Health food or drink,1
+ID_1973,Tomatoes,Characteristics,Fresh,1
+ID_1973,Tomatoes,Flavours,Sweet,1
+ID_1974,"Peas, beans, sweetcorn & asparagus",Characteristics,Health food or drink,1
+ID_1974,"Peas, beans, sweetcorn & asparagus",Characteristics,Frozen food,1
+ID_1974,"Peas, beans, sweetcorn & asparagus",Flavours,Sweet,1
+ID_1975,Peppers,Characteristics,Health food or drink,1
+ID_1975,Peppers,Characteristics,Fresh,1
+ID_1975,Peppers,Flavours,Savoury,1
+ID_1976,Chicken,Characteristics,Contains meat,1
+ID_1976,Chicken,Characteristics,British cuisine,1
+ID_1976,Chicken,Characteristics,Fresh,1
+ID_1976,Chicken,Flavours,Umami,1
+ID_1976,Chicken,Flavours,Savoury,1
+ID_1977,Other cooking flavours & essentials,Characteristics,British cuisine,1
+ID_1977,Other cooking flavours & essentials,Characteristics,Just cook food,1
+ID_1977,Other cooking flavours & essentials,Flavours,Savoury,1
+ID_1978,Laundry & cleaning equipment,Flavours,Non food,1
+ID_1979,Avocado,Characteristics,Health food or drink,1
+ID_1979,Avocado,Characteristics,Fresh,1
+ID_1979,Avocado,Flavours,Sweet,1
+ID_1980,Other vegetables,Characteristics,Health food or drink,1
+ID_1980,Other vegetables,Characteristics,Fresh,1
+ID_1980,Other vegetables,Flavours,Savoury,1
+ID_1980,Other vegetables,Flavours,Umami,1
+ID_1981,Dips,Characteristics,Grab & go prepared food or drink,1
+ID_1981,Dips,Characteristics,Contains meat,1
+ID_1981,Dips,Characteristics,Fresh,1
+ID_1981,Dips,Characteristics,Unhealthy option,1
+ID_1981,Dips,Flavours,Salty,1
+ID_1981,Dips,Flavours,Savoury,1
+ID_1981,Dips,Flavours,Sweet,1
+ID_1982,Potatoes & sweet potatoes,Characteristics,Health food or drink,1
+ID_1982,Potatoes & sweet potatoes,Characteristics,Fresh,1
+ID_1982,Potatoes & sweet potatoes,Flavours,Neutral,1
+ID_1983,Other cooking flavours & essentials,Characteristics,Contains meat,1
+ID_1983,Other cooking flavours & essentials,Flavours,Salty,1
+ID_1983,Other cooking flavours & essentials,Flavours,Umami,1
+ID_1983,Other cooking flavours & essentials,Flavours,Savoury,1
+ID_1984,"Herbs, spices, chillies, garlic & ginger",Characteristics,Fresh,1
+ID_1984,"Herbs, spices, chillies, garlic & ginger",Flavours,Savoury,1
+ID_1985,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_1985,Other fruit juice,Characteristics,Health food or drink,1
+ID_1985,Other fruit juice,Characteristics,Low calorie alternative,1
+ID_1985,Other fruit juice,Characteristics,Organic or additive free,1
+ID_1985,Other fruit juice,Characteristics,Contains seafood,1
+ID_1985,Other fruit juice,Flavours,Sweet,1
+ID_1986,Other biscuits & cereal bars,Characteristics,Unhealthy option,1
+ID_1986,Other biscuits & cereal bars,Characteristics,Grab & go prepared food or drink,1
+ID_1986,Other biscuits & cereal bars,Flavours,Sweet,1
+ID_1986,Other biscuits & cereal bars,Flavours,Savoury,1
+ID_1987,Chocolate bars & confectionary,Characteristics,Unhealthy option,1
+ID_1987,Chocolate bars & confectionary,Characteristics,Grab & go prepared food or drink,1
+ID_1987,Chocolate bars & confectionary,Flavours,Sweet,1
+ID_1988,Gut health yoghurts,Characteristics,Health food or drink,1
+ID_1988,Gut health yoghurts,Characteristics,Fresh,1
+ID_1988,Gut health yoghurts,Characteristics,Vegetarian or vegan alternative,1
+ID_1988,Gut health yoghurts,Flavours,Neutral,1
+ID_1989,Lager,Flavours,Neutral,1
+ID_1990,Other beer & cider,Flavours,Neutral,1
+ID_1991,Mini pizza & pockets,Characteristics,Just cook food,1
+ID_1991,Mini pizza & pockets,Characteristics,Contains meat,1
+ID_1991,Mini pizza & pockets,Characteristics,Unhealthy option,1
+ID_1991,Mini pizza & pockets,Characteristics,Grab & go prepared food or drink,1
+ID_1991,Mini pizza & pockets,Characteristics,American cuisine,1
+ID_1991,Mini pizza & pockets,Flavours,Salty,1
+ID_1991,Mini pizza & pockets,Flavours,Savoury,1
+ID_1991,Mini pizza & pockets,Flavours,Umami,1
+ID_1991,Mini pizza & pockets,Flavours,Sweet,1
+ID_1992,Dips,Characteristics,Contains meat,1
+ID_1992,Dips,Characteristics,Grab & go prepared food or drink,1
+ID_1992,Dips,Characteristics,Fresh,1
+ID_1992,Dips,Characteristics,Unhealthy option,1
+ID_1992,Dips,Flavours,Salty,1
+ID_1992,Dips,Flavours,Savoury,1
+ID_1992,Dips,Flavours,Sweet,1
+ID_1993,Blue cheese,Characteristics,British cuisine,1
+ID_1993,Blue cheese,Characteristics,Contains seafood,1
+ID_1993,Blue cheese,Characteristics,Unhealthy option,1
+ID_1993,Blue cheese,Flavours,Umami,1
+ID_1993,Blue cheese,Flavours,Savoury,1
+ID_1994,Other dairy & eggs,Characteristics,Vegetarian or vegan alternative,1
+ID_1994,Other dairy & eggs,Characteristics,Health food or drink,1
+ID_1994,Other dairy & eggs,Characteristics,Fresh,1
+ID_1994,Other dairy & eggs,Flavours,Sweet,1
+ID_1995,Bread loaves,Characteristics,British cuisine,1
+ID_1995,Bread loaves,Characteristics,Organic or additive free,1
+ID_1995,Bread loaves,Characteristics,Just cook food,1
+ID_1995,Bread loaves,Characteristics,Health food or drink,1
+ID_1995,Bread loaves,Characteristics,Fresh,1
+ID_1995,Bread loaves,Flavours,Neutral,1
+ID_1996,Baking essentials,Characteristics,British cuisine,1
+ID_1996,Baking essentials,Characteristics,Just cook food,1
+ID_1996,Baking essentials,Flavours,Neutral,1
+ID_1997,Stress & relaxation supplements,Characteristics,Health food or drink,1
+ID_1997,Stress & relaxation supplements,Flavours,Neutral,1
+ID_1998,Baking flavours & colourings,Characteristics,Special event or occasion,1
+ID_1998,Baking flavours & colourings,Characteristics,Unhealthy option,1
+ID_1998,Baking flavours & colourings,Flavours,Sweet,1
+ID_1999,Bread loaves,Characteristics,British cuisine,1
+ID_1999,Bread loaves,Characteristics,Fresh,1
+ID_1999,Bread loaves,Characteristics,Unhealthy option,1
+ID_1999,Bread loaves,Flavours,Neutral,1
+ID_2000,Chutneys & relishes,Characteristics,British cuisine,1
+ID_2000,Chutneys & relishes,Characteristics,Just cook food,1
+ID_2000,Chutneys & relishes,Characteristics,Unhealthy option,1
+ID_2000,Chutneys & relishes,Flavours,Salty,1
+ID_2000,Chutneys & relishes,Flavours,Sweet,1
+ID_2000,Chutneys & relishes,Flavours,Savoury,1
+ID_2001,Other pizza,Characteristics,Just cook food,1
+ID_2001,Other pizza,Characteristics,Contains meat,1
+ID_2001,Other pizza,Characteristics,Unhealthy option,1
+ID_2001,Other pizza,Flavours,Salty,1
+ID_2001,Other pizza,Flavours,Savoury,1
+ID_2001,Other pizza,Flavours,Sweet,1
+ID_2001,Other pizza,Flavours,Spicy,1
+ID_2002,Other prepared meat,Characteristics,Contains meat,1
+ID_2002,Other prepared meat,Characteristics,British cuisine,1
+ID_2002,Other prepared meat,Flavours,Salty,1
+ID_2002,Other prepared meat,Flavours,Savoury,1
+ID_2003,Bacon,Characteristics,Contains meat,1
+ID_2003,Bacon,Characteristics,British cuisine,1
+ID_2003,Bacon,Characteristics,Unhealthy option,1
+ID_2003,Bacon,Flavours,Umami,1
+ID_2003,Bacon,Flavours,Savoury,1
+ID_2003,Bacon,Flavours,Salty,1
+ID_2004,Other pizza,Characteristics,Just cook food,1
+ID_2004,Other pizza,Characteristics,Contains meat,1
+ID_2004,Other pizza,Characteristics,Unhealthy option,1
+ID_2004,Other pizza,Characteristics,Northern African cuisine,1
+ID_2004,Other pizza,Characteristics,Italian cuisine,1
+ID_2004,Other pizza,Flavours,Umami,1
+ID_2004,Other pizza,Flavours,Savoury,1
+ID_2004,Other pizza,Flavours,Salty,1
+ID_2004,Other pizza,Flavours,Sweet,1
+ID_2005,Garlic bread & dough balls,Characteristics,Just cook food,1
+ID_2005,Garlic bread & dough balls,Characteristics,Unhealthy option,1
+ID_2005,Garlic bread & dough balls,Characteristics,Italian cuisine,1
+ID_2005,Garlic bread & dough balls,Characteristics,Contains meat,1
+ID_2005,Garlic bread & dough balls,Characteristics,Frozen food,1
+ID_2005,Garlic bread & dough balls,Flavours,Salty,1
+ID_2005,Garlic bread & dough balls,Flavours,Savoury,1
+ID_2005,Garlic bread & dough balls,Flavours,Umami,1
+ID_2006,Other eggs,Characteristics,Contains meat,1
+ID_2006,Other eggs,Characteristics,Fresh,1
+ID_2006,Other eggs,Flavours,Neutral,1
+ID_2007,Cereal,Characteristics,Health food or drink,1
+ID_2007,Cereal,Characteristics,Just cook food,1
+ID_2007,Cereal,Characteristics,Grab & go prepared food or drink,1
+ID_2007,Cereal,Flavours,Neutral,1
+ID_2008,Cheddar cheese,Characteristics,Contains meat,1
+ID_2008,Cheddar cheese,Characteristics,British cuisine,1
+ID_2008,Cheddar cheese,Characteristics,Fresh,1
+ID_2008,Cheddar cheese,Characteristics,Unhealthy option,1
+ID_2008,Cheddar cheese,Flavours,Umami,1
+ID_2008,Cheddar cheese,Flavours,Savoury,1
+ID_2009,Children's healthcare & hygeine,Characteristics,Fresh,1
+ID_2009,Children's healthcare & hygeine,Flavours,Spicy,1
+ID_2010,Other pizza,Characteristics,Just cook food,1
+ID_2010,Other pizza,Characteristics,Contains seafood,1
+ID_2010,Other pizza,Characteristics,Unhealthy option,1
+ID_2010,Other pizza,Flavours,Salty,1
+ID_2010,Other pizza,Flavours,Savoury,1
+ID_2010,Other pizza,Flavours,Spicy,1
+ID_2010,Other pizza,Flavours,Umami,1
+ID_2011,Children's healthcare & hygeine,Flavours,Non food,1
+ID_2012,Gin,Characteristics,British cuisine,1
+ID_2012,Gin,Characteristics,Alcohol free alternative,1
+ID_2012,Gin,Characteristics,Just cook food,1
+ID_2012,Gin,Flavours,Neutral,1
+ID_2013,Nuts,Characteristics,Health food or drink,1
+ID_2013,Nuts,Characteristics,Grab & go prepared food or drink,1
+ID_2013,Nuts,Flavours,Salty,1
+ID_2013,Nuts,Flavours,Sweet,1
+ID_2014,Pickled & fermented food,Characteristics,Health food or drink,1
+ID_2014,Pickled & fermented food,Flavours,Savoury,1
+ID_2014,Pickled & fermented food,Flavours,Salty,1
+ID_2014,Pickled & fermented food,Flavours,Sweet,1
+ID_2014,Pickled & fermented food,Flavours,Sour,1
+ID_2015,Pancakes & waffles,Characteristics,Just cook food,1
+ID_2015,Pancakes & waffles,Characteristics,Unhealthy option,1
+ID_2015,Pancakes & waffles,Flavours,Sweet,1
+ID_2016,Medication & treatments,Flavours,Neutral,1
+ID_2017,Apples & pears,Characteristics,Health food or drink,1
+ID_2017,Apples & pears,Characteristics,Fresh,1
+ID_2017,Apples & pears,Flavours,Sweet,1
+ID_2018,Other personal care,Flavours,Non food,1
+ID_2019,Deodorant,Flavours,Non food,1
+ID_2020,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_2020,Other fruit juice,Characteristics,Fresh,1
+ID_2020,Other fruit juice,Characteristics,Health food or drink,1
+ID_2020,Other fruit juice,Flavours,Sweet,1
+ID_2021,"Sandwiches, wraps & sushi",Characteristics,Grab & go prepared food or drink,1
+ID_2021,"Sandwiches, wraps & sushi",Characteristics,Contains meat,1
+ID_2021,"Sandwiches, wraps & sushi",Characteristics,Fresh,1
+ID_2021,"Sandwiches, wraps & sushi",Characteristics,British cuisine,1
+ID_2021,"Sandwiches, wraps & sushi",Characteristics,Unhealthy option,1
+ID_2021,"Sandwiches, wraps & sushi",Flavours,Salty,1
+ID_2021,"Sandwiches, wraps & sushi",Flavours,Savoury,1
+ID_2021,"Sandwiches, wraps & sushi",Flavours,Umami,1
+ID_2021,"Sandwiches, wraps & sushi",Flavours,Sweet,1
+ID_2022,Other chilled desserts,Characteristics,Grab & go prepared food or drink,1
+ID_2022,Other chilled desserts,Characteristics,Unhealthy option,1
+ID_2022,Other chilled desserts,Characteristics,Contains meat,1
+ID_2022,Other chilled desserts,Characteristics,Southeast Asian cuisine,1
+ID_2022,Other chilled desserts,Flavours,Salty,1
+ID_2022,Other chilled desserts,Flavours,Sweet,1
+ID_2022,Other chilled desserts,Flavours,Savoury,1
+ID_2023,Other fizzy pop,Characteristics,Grab & go prepared food or drink,1
+ID_2023,Other fizzy pop,Characteristics,Unhealthy option,1
+ID_2023,Other fizzy pop,Flavours,Sweet,1
+ID_2024,Salad cream,Characteristics,Health food or drink,1
+ID_2024,Salad cream,Characteristics,Fresh,1
+ID_2024,Salad cream,Flavours,Sweet,1
+ID_2025,Peppers,Characteristics,Health food or drink,1
+ID_2025,Peppers,Characteristics,Fresh,1
+ID_2025,Peppers,Flavours,Savoury,1
+ID_2026,Other personal care,Flavours,Non food,1
+ID_2027,Other beer & cider,Flavours,Neutral,1
+ID_2028,Other fruit juice,Characteristics,Health food or drink,1
+ID_2028,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_2028,Other fruit juice,Flavours,Sweet,1
+ID_2029,Potato-based crisps,Characteristics,Unhealthy option,1
+ID_2029,Potato-based crisps,Characteristics,Grab & go prepared food or drink,1
+ID_2029,Potato-based crisps,Flavours,Salty,1
+ID_2029,Potato-based crisps,Flavours,Savoury,1
+ID_2030,Other fruit juice,Characteristics,Health food or drink,1
+ID_2030,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_2030,Other fruit juice,Flavours,Sweet,1
+ID_2031,Sausages,Characteristics,Contains meat,1
+ID_2031,Sausages,Characteristics,British cuisine,1
+ID_2031,Sausages,Characteristics,Just cook food,1
+ID_2031,Sausages,Characteristics,Unhealthy option,1
+ID_2031,Sausages,Flavours,Umami,1
+ID_2031,Sausages,Flavours,Savoury,1
+ID_2032,Petrol/diesel,Flavours,Non food,1
+ID_2033,Wraps,Characteristics,Just cook food,1
+ID_2033,Wraps,Characteristics,Mexican cuisine,1
+ID_2033,Wraps,Characteristics,Fresh,1
+ID_2033,Wraps,Characteristics,Unhealthy option,1
+ID_2033,Wraps,Flavours,Neutral,1
+ID_2034,Mixed cheeses,Characteristics,Contains meat,1
+ID_2034,Mixed cheeses,Characteristics,Unhealthy option,1
+ID_2034,Mixed cheeses,Characteristics,Fresh,1
+ID_2034,Mixed cheeses,Flavours,Salty,1
+ID_2034,Mixed cheeses,Flavours,Savoury,1
+ID_2035,Cocktails,Characteristics,Special event or occasion,1
+ID_2035,Cocktails,Characteristics,Grab & go prepared food or drink,1
+ID_2035,Cocktails,Characteristics,Caribbean cuisine,1
+ID_2035,Cocktails,Characteristics,British cuisine,1
+ID_2035,Cocktails,Flavours,Sweet,1
+ID_2036,Bagels,Characteristics,Just cook food,1
+ID_2036,Bagels,Characteristics,Unhealthy option,1
+ID_2036,Bagels,Characteristics,Fresh,1
+ID_2036,Bagels,Flavours,Neutral,1
+ID_2037,Cooked chicken,Characteristics,Contains meat,1
+ID_2037,Cooked chicken,Characteristics,Grab & go prepared food or drink,1
+ID_2037,Cooked chicken,Characteristics,Unhealthy option,1
+ID_2037,Cooked chicken,Characteristics,Fresh,1
+ID_2037,Cooked chicken,Flavours,Salty,1
+ID_2037,Cooked chicken,Flavours,Umami,1
+ID_2037,Cooked chicken,Flavours,Savoury,1
+ID_2037,Cooked chicken,Flavours,Spicy,1
+ID_2038,Bagels,Characteristics,American cuisine,1
+ID_2038,Bagels,Characteristics,Just cook food,1
+ID_2038,Bagels,Characteristics,Unhealthy option,1
+ID_2038,Bagels,Characteristics,Fresh,1
+ID_2038,Bagels,Flavours,Sweet,1
+ID_2039,Other cheese,Characteristics,Contains meat,1
+ID_2039,Other cheese,Characteristics,Unhealthy option,1
+ID_2039,Other cheese,Characteristics,Fresh,1
+ID_2039,Other cheese,Flavours,Salty,1
+ID_2039,Other cheese,Flavours,Umami,1
+ID_2039,Other cheese,Flavours,Savoury,1
+ID_2039,Other cheese,Flavours,Sweet,1
+ID_2040,Bagels,Characteristics,Just cook food,1
+ID_2040,Bagels,Characteristics,Health food or drink,1
+ID_2040,Bagels,Flavours,Neutral,1
+ID_2041,Other cheese,Characteristics,Unhealthy option,1
+ID_2041,Other cheese,Characteristics,Contains meat,1
+ID_2041,Other cheese,Characteristics,Grab & go prepared food or drink,1
+ID_2041,Other cheese,Flavours,Savoury,1
+ID_2041,Other cheese,Flavours,Salty,1
+ID_2042,Other deli counter,Characteristics,Contains meat,1
+ID_2042,Other deli counter,Characteristics,Grab & go prepared food or drink,1
+ID_2042,Other deli counter,Characteristics,Unhealthy option,1
+ID_2042,Other deli counter,Characteristics,Italian cuisine,1
+ID_2042,Other deli counter,Characteristics,Fresh,1
+ID_2042,Other deli counter,Flavours,Salty,1
+ID_2042,Other deli counter,Flavours,Umami,1
+ID_2042,Other deli counter,Flavours,Savoury,1
+ID_2043,Cooked turkey,Characteristics,Contains meat,1
+ID_2043,Cooked turkey,Characteristics,Grab & go prepared food or drink,1
+ID_2043,Cooked turkey,Characteristics,Fresh,1
+ID_2043,Cooked turkey,Characteristics,Health food or drink,1
+ID_2043,Cooked turkey,Flavours,Umami,1
+ID_2043,Cooked turkey,Flavours,Savoury,1
+ID_2044,Bacon,Characteristics,Contains meat,1
+ID_2044,Bacon,Characteristics,British cuisine,1
+ID_2044,Bacon,Characteristics,Just cook food,1
+ID_2044,Bacon,Flavours,Umami,1
+ID_2044,Bacon,Flavours,Savoury,1
+ID_2044,Bacon,Flavours,Salty,1
+ID_2045,Avocado,Characteristics,Health food or drink,1
+ID_2045,Avocado,Characteristics,Fresh,1
+ID_2045,Avocado,Flavours,Sweet,1
+ID_2046,Prawns,Characteristics,Contains seafood,1
+ID_2046,Prawns,Characteristics,Grab & go prepared food or drink,1
+ID_2046,Prawns,Characteristics,Fresh,1
+ID_2046,Prawns,Flavours,Umami,1
+ID_2046,Prawns,Flavours,Savoury,1
+ID_2047,Squash & cordial,Characteristics,Unhealthy option,1
+ID_2047,Squash & cordial,Flavours,Sweet,1
+ID_2048,Baking kits,Characteristics,Grab & go prepared food or drink,1
+ID_2048,Baking kits,Characteristics,Fresh,1
+ID_2048,Baking kits,Characteristics,Unhealthy option,1
+ID_2048,Baking kits,Flavours,Neutral,1
+ID_2049,Lettuce & salad bags,Characteristics,Health food or drink,1
+ID_2049,Lettuce & salad bags,Characteristics,Fresh,1
+ID_2049,Lettuce & salad bags,Flavours,Neutral,1
+ID_2050,Pickled & fermented food,Characteristics,Health food or drink,1
+ID_2050,Pickled & fermented food,Characteristics,Korean cuisine,1
+ID_2050,Pickled & fermented food,Flavours,Sour,1
+ID_2050,Pickled & fermented food,Flavours,Umami,1
+ID_2050,Pickled & fermented food,Flavours,Savoury,1
+ID_2050,Pickled & fermented food,Flavours,Spicy,1
+ID_2051,Apples & pears,Characteristics,Health food or drink,1
+ID_2051,Apples & pears,Characteristics,Fresh,1
+ID_2051,Apples & pears,Flavours,Sweet,1
+ID_2052,"Sandwiches, wraps & sushi",Characteristics,Grab & go prepared food or drink,1
+ID_2052,"Sandwiches, wraps & sushi",Characteristics,Contains seafood,1
+ID_2052,"Sandwiches, wraps & sushi",Characteristics,Fresh,1
+ID_2052,"Sandwiches, wraps & sushi",Characteristics,Unhealthy option,1
+ID_2052,"Sandwiches, wraps & sushi",Characteristics,British cuisine,1
+ID_2052,"Sandwiches, wraps & sushi",Flavours,Salty,1
+ID_2052,"Sandwiches, wraps & sushi",Flavours,Sweet,1
+ID_2052,"Sandwiches, wraps & sushi",Flavours,Savoury,1
+ID_2053,Lager,Flavours,Neutral,1
+ID_2054,Other fruit,Characteristics,Grab & go prepared food or drink,1
+ID_2054,Other fruit,Characteristics,Fresh,1
+ID_2054,Other fruit,Flavours,Sweet,1
+ID_2055,Carrots & other root vegetables,Characteristics,Health food or drink,1
+ID_2055,Carrots & other root vegetables,Characteristics,Fresh,1
+ID_2055,Carrots & other root vegetables,Flavours,Sweet,1
+ID_2056,Rice,Characteristics,Grab & go prepared food or drink,1
+ID_2056,Rice,Characteristics,Contains meat,1
+ID_2056,Rice,Characteristics,Fresh,1
+ID_2056,Rice,Characteristics,Unhealthy option,1
+ID_2056,Rice,Flavours,Salty,1
+ID_2056,Rice,Flavours,Neutral,1
+ID_2056,Rice,Flavours,Sweet,1
+ID_2057,Falafel,Characteristics,Mediterranean cuisine,1
+ID_2057,Falafel,Characteristics,Grab & go prepared food or drink,1
+ID_2057,Falafel,Characteristics,Contains meat,1
+ID_2057,Falafel,Characteristics,Fresh,1
+ID_2057,Falafel,Characteristics,Unhealthy option,1
+ID_2057,Falafel,Flavours,Salty,1
+ID_2057,Falafel,Flavours,Savoury,1
+ID_2057,Falafel,Flavours,Umami,1
+ID_2058,Mini pizza & pockets,Characteristics,Just cook food,1
+ID_2058,Mini pizza & pockets,Characteristics,Unhealthy option,1
+ID_2058,Mini pizza & pockets,Characteristics,Contains meat,1
+ID_2058,Mini pizza & pockets,Characteristics,Grab & go prepared food or drink,1
+ID_2058,Mini pizza & pockets,Flavours,Salty,1
+ID_2058,Mini pizza & pockets,Flavours,Savoury,1
+ID_2058,Mini pizza & pockets,Flavours,Umami,1
+ID_2059,Cookies,Characteristics,Grab & go prepared food or drink,1
+ID_2059,Cookies,Characteristics,Unhealthy option,1
+ID_2059,Cookies,Characteristics,Fresh,1
+ID_2059,Cookies,Flavours,Sweet,1
+ID_2060,Other prepared fish,Characteristics,Contains seafood,1
+ID_2060,Other prepared fish,Characteristics,Just cook food,1
+ID_2060,Other prepared fish,Characteristics,Unhealthy option,1
+ID_2060,Other prepared fish,Flavours,Umami,1
+ID_2060,Other prepared fish,Flavours,Savoury,1
+ID_2060,Other prepared fish,Flavours,Salty,1
+ID_2061,Other prepared meat,Characteristics,Contains meat,1
+ID_2061,Other prepared meat,Characteristics,British cuisine,1
+ID_2061,Other prepared meat,Characteristics,Just cook food,1
+ID_2061,Other prepared meat,Flavours,Salty,1
+ID_2061,Other prepared meat,Flavours,Savoury,1
+ID_2061,Other prepared meat,Flavours,Umami,1
+ID_2062,Gut health yoghurts,Characteristics,Health food or drink,1
+ID_2062,Gut health yoghurts,Characteristics,Fresh,1
+ID_2062,Gut health yoghurts,Flavours,Neutral,1
+ID_2063,Other wine,Characteristics,Grab & go prepared food or drink,1
+ID_2063,Other wine,Characteristics,British cuisine,1
+ID_2063,Other wine,Characteristics,Fresh,1
+ID_2063,Other wine,Characteristics,Unhealthy option,1
+ID_2063,Other wine,Flavours,Sweet,1
+ID_2064,Lettuce & salad bags,Characteristics,Health food or drink,1
+ID_2064,Lettuce & salad bags,Characteristics,Fresh,1
+ID_2064,Lettuce & salad bags,Flavours,Neutral,1
+ID_2065,Porridge & oats,Characteristics,Health food or drink,1
+ID_2065,Porridge & oats,Characteristics,Fresh,1
+ID_2065,Porridge & oats,Flavours,Neutral,1
+ID_2066,Tinned fish & seafood,Characteristics,Contains seafood,1
+ID_2066,Tinned fish & seafood,Flavours,Salty,1
+ID_2066,Tinned fish & seafood,Flavours,Umami,1
+ID_2066,Tinned fish & seafood,Flavours,Savoury,1
+ID_2067,Speciality breads,Characteristics,Fresh,1
+ID_2067,Speciality breads,Flavours,Neutral,1
+ID_2068,"Hash browns, onion rings & croquettes",Characteristics,Just cook food,1
+ID_2068,"Hash browns, onion rings & croquettes",Characteristics,Unhealthy option,1
+ID_2068,"Hash browns, onion rings & croquettes",Characteristics,Frozen food,1
+ID_2068,"Hash browns, onion rings & croquettes",Flavours,Savoury,1
+ID_2068,"Hash browns, onion rings & croquettes",Flavours,Salty,1
+ID_2069,Eggs,Characteristics,Contains meat,1
+ID_2069,Eggs,Characteristics,Fresh,1
+ID_2069,Eggs,Flavours,Neutral,1
+ID_2070,Other butter,Characteristics,Contains meat,1
+ID_2070,Other butter,Characteristics,Unhealthy option,1
+ID_2070,Other butter,Flavours,Salty,1
+ID_2071,Other beer & cider,Characteristics,Grab & go prepared food or drink,1
+ID_2071,Other beer & cider,Characteristics,British cuisine,1
+ID_2071,Other beer & cider,Flavours,Neutral,1
+ID_2072,Cooked chicken,Characteristics,Contains meat,1
+ID_2072,Cooked chicken,Characteristics,Grab & go prepared food or drink,1
+ID_2072,Cooked chicken,Characteristics,British cuisine,1
+ID_2072,Cooked chicken,Characteristics,Just cook food,1
+ID_2072,Cooked chicken,Characteristics,Unhealthy option,1
+ID_2072,Cooked chicken,Flavours,Salty,1
+ID_2072,Cooked chicken,Flavours,Umami,1
+ID_2072,Cooked chicken,Flavours,Savoury,1
+ID_2073,Other spirits,Characteristics,Special event or occasion,1
+ID_2073,Other spirits,Characteristics,Contains meat,1
+ID_2073,Other spirits,Flavours,Sweet,1
+ID_2074,Just heat burgers,Characteristics,Contains meat,1
+ID_2074,Just heat burgers,Characteristics,British cuisine,1
+ID_2074,Just heat burgers,Characteristics,Just cook food,1
+ID_2074,Just heat burgers,Flavours,Umami,1
+ID_2074,Just heat burgers,Flavours,Savoury,1
+ID_2074,Just heat burgers,Flavours,Salty,1
+ID_2075,Chocolate covered fruit & nuts,Characteristics,Unhealthy option,1
+ID_2075,Chocolate covered fruit & nuts,Characteristics,Grab & go prepared food or drink,1
+ID_2075,Chocolate covered fruit & nuts,Flavours,Sweet,1
+ID_2076,Plain chocolate (milk),Characteristics,Grab & go prepared food or drink,1
+ID_2076,Plain chocolate (milk),Characteristics,Fresh,1
+ID_2076,Plain chocolate (milk),Flavours,Sweet,1
+ID_2077,"Cod, haddock & white fish",Characteristics,Contains seafood,1
+ID_2077,"Cod, haddock & white fish",Flavours,Umami,1
+ID_2077,"Cod, haddock & white fish",Flavours,Savoury,1
+ID_2078,Jacket & mashed potatoes,Characteristics,British cuisine,1
+ID_2078,Jacket & mashed potatoes,Characteristics,Just cook food,1
+ID_2078,Jacket & mashed potatoes,Characteristics,Contains seafood,1
+ID_2078,Jacket & mashed potatoes,Characteristics,Grab & go prepared food or drink,1
+ID_2078,Jacket & mashed potatoes,Characteristics,Unhealthy option,1
+ID_2078,Jacket & mashed potatoes,Flavours,Savoury,1
+ID_2079,"Cheesecake, egg custard tarts & trifles",Characteristics,Grab & go prepared food or drink,1
+ID_2079,"Cheesecake, egg custard tarts & trifles",Characteristics,Unhealthy option,1
+ID_2079,"Cheesecake, egg custard tarts & trifles",Characteristics,Contains seafood,1
+ID_2079,"Cheesecake, egg custard tarts & trifles",Flavours,Sweet,1
+ID_2079,"Cheesecake, egg custard tarts & trifles",Flavours,Salty,1
+ID_2080,Bread loaves,Characteristics,Health food or drink,1
+ID_2080,Bread loaves,Characteristics,Contains seafood,1
+ID_2080,Bread loaves,Characteristics,Fresh,1
+ID_2080,Bread loaves,Characteristics,Organic or additive free,1
+ID_2080,Bread loaves,Flavours,Neutral,1
+ID_2081,White wine,Flavours,Neutral,1
+ID_2082,Bread loaves,Characteristics,Grab & go prepared food or drink,1
+ID_2082,Bread loaves,Characteristics,Health food or drink,1
+ID_2082,Bread loaves,Characteristics,Fresh,1
+ID_2082,Bread loaves,Flavours,Neutral,1
+ID_2083,Oils & cooking fats,Characteristics,Grab & go prepared food or drink,1
+ID_2083,Oils & cooking fats,Characteristics,Special event or occasion,1
+ID_2083,Oils & cooking fats,Characteristics,Unhealthy option,1
+ID_2083,Oils & cooking fats,Flavours,Neutral,1
+ID_2084,Bread loaves,Flavours,Neutral,1
+ID_2085,Other milky drinks,Characteristics,Vegetarian or vegan alternative,1
+ID_2085,Other milky drinks,Characteristics,Health food or drink,1
+ID_2085,Other milky drinks,Characteristics,Grab & go prepared food or drink,1
+ID_2085,Other milky drinks,Characteristics,Organic or additive free,1
+ID_2085,Other milky drinks,Characteristics,Low calorie alternative,1
+ID_2085,Other milky drinks,Characteristics,Fresh,1
+ID_2085,Other milky drinks,Flavours,Sweet,1
+ID_2086,Earl grey & speciality tea bags,Characteristics,Health food or drink,1
+ID_2086,Earl grey & speciality tea bags,Flavours,Bitter,1
+ID_2087,Ice cream,Characteristics,Grab & go prepared food or drink,1
+ID_2087,Ice cream,Characteristics,Frozen food,1
+ID_2087,Ice cream,Characteristics,Unhealthy option,1
+ID_2087,Ice cream,Flavours,Sweet,1
+ID_2088,Prawns,Characteristics,Contains seafood,1
+ID_2088,Prawns,Characteristics,Fresh,1
+ID_2088,Prawns,Characteristics,Health food or drink,1
+ID_2088,Prawns,Flavours,Umami,1
+ID_2088,Prawns,Flavours,Savoury,1
+ID_2089,Other chocolates,Characteristics,Special event or occasion,1
+ID_2089,Other chocolates,Characteristics,Unhealthy option,1
+ID_2089,Other chocolates,Flavours,Sweet,1
+ID_2090,Other chocolates,Characteristics,Special event or occasion,1
+ID_2090,Other chocolates,Characteristics,Unhealthy option,1
+ID_2090,Other chocolates,Flavours,Sweet,1
+ID_2091,Muffins,Characteristics,Grab & go prepared food or drink,1
+ID_2091,Muffins,Characteristics,Unhealthy option,1
+ID_2091,Muffins,Characteristics,Fresh,1
+ID_2091,Muffins,Characteristics,British cuisine,1
+ID_2091,Muffins,Flavours,Sweet,1
+ID_2092,Avocado,Characteristics,Health food or drink,1
+ID_2092,Avocado,Characteristics,Fresh,1
+ID_2092,Avocado,Flavours,Sweet,1
+ID_2093,Eggs,Characteristics,Contains meat,1
+ID_2093,Eggs,Characteristics,Fresh,1
+ID_2093,Eggs,Flavours,Neutral,1
+ID_2094,Lettuce & salad bags,Characteristics,Health food or drink,1
+ID_2094,Lettuce & salad bags,Characteristics,Fresh,1
+ID_2094,Lettuce & salad bags,Flavours,Salty,1
+ID_2094,Lettuce & salad bags,Flavours,Neutral,1
+ID_2095,"Sandwiches, wraps & sushi",Characteristics,Grab & go prepared food or drink,1
+ID_2095,"Sandwiches, wraps & sushi",Characteristics,Contains meat,1
+ID_2095,"Sandwiches, wraps & sushi",Characteristics,British cuisine,1
+ID_2095,"Sandwiches, wraps & sushi",Characteristics,Caribbean cuisine,1
+ID_2095,"Sandwiches, wraps & sushi",Characteristics,Fresh,1
+ID_2095,"Sandwiches, wraps & sushi",Flavours,Salty,1
+ID_2095,"Sandwiches, wraps & sushi",Flavours,Savoury,1
+ID_2095,"Sandwiches, wraps & sushi",Flavours,Umami,1
+ID_2096,Chocolate bars & confectionary,Characteristics,Unhealthy option,1
+ID_2096,Chocolate bars & confectionary,Characteristics,Grab & go prepared food or drink,1
+ID_2096,Chocolate bars & confectionary,Characteristics,Contains seafood,1
+ID_2096,Chocolate bars & confectionary,Flavours,Sweet,1
+ID_2097,Other crisps & rice cakes,Characteristics,Unhealthy option,1
+ID_2097,Other crisps & rice cakes,Flavours,Salty,1
+ID_2097,Other crisps & rice cakes,Flavours,Savoury,1
+ID_2097,Other crisps & rice cakes,Flavours,Sweet,1
+ID_2098,Oils & cooking fats,Characteristics,Mediterranean cuisine,1
+ID_2098,Oils & cooking fats,Flavours,Neutral,1
+ID_2099,Sausage rolls & cocktail sausages,Characteristics,British cuisine,1
+ID_2099,Sausage rolls & cocktail sausages,Characteristics,Just cook food,1
+ID_2099,Sausage rolls & cocktail sausages,Characteristics,Contains seafood,1
+ID_2099,Sausage rolls & cocktail sausages,Characteristics,Unhealthy option,1
+ID_2099,Sausage rolls & cocktail sausages,Flavours,Salty,1
+ID_2099,Sausage rolls & cocktail sausages,Flavours,Savoury,1
+ID_2099,Sausage rolls & cocktail sausages,Flavours,Umami,1
+ID_2100,Filled pastries & profiteroles,Characteristics,Unhealthy option,1
+ID_2100,Filled pastries & profiteroles,Characteristics,Grab & go prepared food or drink,1
+ID_2100,Filled pastries & profiteroles,Characteristics,Fresh,1
+ID_2100,Filled pastries & profiteroles,Flavours,Sweet,1
+ID_2101,Wraps,Characteristics,Grab & go prepared food or drink,1
+ID_2101,Wraps,Characteristics,Contains meat,1
+ID_2101,Wraps,Characteristics,British cuisine,1
+ID_2101,Wraps,Characteristics,Unhealthy option,1
+ID_2101,Wraps,Characteristics,Fresh,1
+ID_2101,Wraps,Flavours,Salty,1
+ID_2101,Wraps,Flavours,Savoury,1
+ID_2102,Tinned fish & seafood,Characteristics,Contains seafood,1
+ID_2102,Tinned fish & seafood,Flavours,Salty,1
+ID_2102,Tinned fish & seafood,Flavours,Umami,1
+ID_2102,Tinned fish & seafood,Flavours,Savoury,1
+ID_2103,"Sandwiches, wraps & sushi",Characteristics,Grab & go prepared food or drink,1
+ID_2103,"Sandwiches, wraps & sushi",Characteristics,British cuisine,1
+ID_2103,"Sandwiches, wraps & sushi",Characteristics,Contains meat,1
+ID_2103,"Sandwiches, wraps & sushi",Characteristics,Fresh,1
+ID_2103,"Sandwiches, wraps & sushi",Characteristics,Unhealthy option,1
+ID_2103,"Sandwiches, wraps & sushi",Flavours,Salty,1
+ID_2103,"Sandwiches, wraps & sushi",Flavours,Savoury,1
+ID_2104,Other fruit,Characteristics,Health food or drink,1
+ID_2104,Other fruit,Characteristics,Fresh,1
+ID_2104,Other fruit,Flavours,Sweet,1
+ID_2105,Brown & bbq sauce,Characteristics,British cuisine,1
+ID_2105,Brown & bbq sauce,Characteristics,Unhealthy option,1
+ID_2105,Brown & bbq sauce,Flavours,Umami,1
+ID_2105,Brown & bbq sauce,Flavours,Savoury,1
+ID_2105,Brown & bbq sauce,Flavours,Sweet,1
+ID_2106,Wraps,Characteristics,British cuisine,1
+ID_2106,Wraps,Characteristics,Just cook food,1
+ID_2106,Wraps,Characteristics,Unhealthy option,1
+ID_2106,Wraps,Characteristics,Fresh,1
+ID_2106,Wraps,Characteristics,Northern African cuisine,1
+ID_2106,Wraps,Characteristics,Vegetarian or vegan alternative,1
+ID_2106,Wraps,Characteristics,Middle Eastern cuisine,1
+ID_2106,Wraps,Flavours,Neutral,1
+ID_2107,Other dairy & eggs,Characteristics,Grab & go prepared food or drink,1
+ID_2107,Other dairy & eggs,Characteristics,Contains meat,1
+ID_2107,Other dairy & eggs,Characteristics,Fresh,1
+ID_2107,Other dairy & eggs,Characteristics,Health food or drink,1
+ID_2107,Other dairy & eggs,Flavours,Sweet,1
+ID_2108,Other cheese,Characteristics,Unhealthy option,1
+ID_2108,Other cheese,Characteristics,Grab & go prepared food or drink,1
+ID_2108,Other cheese,Flavours,Salty,1
+ID_2108,Other cheese,Flavours,Savoury,1
+ID_2108,Other cheese,Flavours,Sweet,1
+ID_2108,Other cheese,Flavours,Umami,1
+ID_2109,Other prepared fish,Characteristics,Contains seafood,1
+ID_2109,Other prepared fish,Flavours,Umami,1
+ID_2109,Other prepared fish,Flavours,Savoury,1
+ID_2110,Other soft drinks,Characteristics,Special event or occasion,1
+ID_2110,Other soft drinks,Characteristics,Unhealthy option,1
+ID_2110,Other soft drinks,Flavours,Sweet,1
+ID_2111,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_2111,Other fruit juice,Characteristics,Fresh,1
+ID_2111,Other fruit juice,Characteristics,Unhealthy option,1
+ID_2111,Other fruit juice,Flavours,Sweet,1
+ID_2112,Wraps,Characteristics,Grab & go prepared food or drink,1
+ID_2112,Wraps,Characteristics,Contains meat,1
+ID_2112,Wraps,Characteristics,Unhealthy option,1
+ID_2112,Wraps,Flavours,Salty,1
+ID_2112,Wraps,Flavours,Savoury,1
+ID_2112,Wraps,Flavours,Sweet,1
+ID_2113,DIY,Flavours,Non food,1
+ID_2114,Other fizzy pop,Characteristics,Grab & go prepared food or drink,1
+ID_2114,Other fizzy pop,Characteristics,Unhealthy option,1
+ID_2114,Other fizzy pop,Flavours,Sweet,1
+ID_2114,Other fizzy pop,Flavours,Salty,1
+ID_2114,Other fizzy pop,Flavours,Sour,1
+ID_2115,Allergies,Flavours,Non food,1
+ID_2116,Other beer & cider,Characteristics,Grab & go prepared food or drink,1
+ID_2116,Other beer & cider,Characteristics,Unhealthy option,1
+ID_2116,Other beer & cider,Flavours,Neutral,1
+ID_2117,Pasta,Characteristics,Just cook food,1
+ID_2117,Pasta,Characteristics,Unhealthy option,1
+ID_2117,Pasta,Characteristics,Fresh,1
+ID_2117,Pasta,Flavours,Neutral,1
+ID_2118,Soft & spreadable cheese,Characteristics,Contains meat,1
+ID_2118,Soft & spreadable cheese,Characteristics,Grab & go prepared food or drink,1
+ID_2118,Soft & spreadable cheese,Characteristics,Unhealthy option,1
+ID_2118,Soft & spreadable cheese,Characteristics,Fresh,1
+ID_2118,Soft & spreadable cheese,Flavours,Salty,1
+ID_2118,Soft & spreadable cheese,Flavours,Neutral,1
+ID_2118,Soft & spreadable cheese,Flavours,Umami,1
+ID_2119,Other cooking flavours & essentials,Characteristics,British cuisine,1
+ID_2119,Other cooking flavours & essentials,Characteristics,Just cook food,1
+ID_2119,Other cooking flavours & essentials,Flavours,Savoury,1
+ID_2119,Other cooking flavours & essentials,Flavours,Salty,1
+ID_2120,Smoked fish,Characteristics,Contains seafood,1
+ID_2120,Smoked fish,Flavours,Umami,1
+ID_2120,Smoked fish,Flavours,Savoury,1
+ID_2120,Smoked fish,Flavours,Salty,1
+ID_2121,"Yorkshire puddings, stuffing & dumplings",Characteristics,British cuisine,1
+ID_2121,"Yorkshire puddings, stuffing & dumplings",Characteristics,Just cook food,1
+ID_2121,"Yorkshire puddings, stuffing & dumplings",Characteristics,Unhealthy option,1
+ID_2121,"Yorkshire puddings, stuffing & dumplings",Characteristics,Frozen food,1
+ID_2121,"Yorkshire puddings, stuffing & dumplings",Flavours,Savoury,1
+ID_2121,"Yorkshire puddings, stuffing & dumplings",Flavours,Umami,1
+ID_2122,Other,Flavours,Neutral,1
+ID_2123,Chicken,Characteristics,Contains meat,1
+ID_2123,Chicken,Characteristics,British cuisine,1
+ID_2123,Chicken,Characteristics,Fresh,1
+ID_2123,Chicken,Flavours,Umami,1
+ID_2123,Chicken,Flavours,Savoury,1
+ID_2124,Other decorations,Characteristics,Special event or occasion,1
+ID_2124,Other decorations,Flavours,Non food,1
+ID_2125,Other entertainment & information,Flavours,Neutral,1
+ID_2126,Other cooking flavours & essentials,Characteristics,Just cook food,1
+ID_2126,Other cooking flavours & essentials,Characteristics,British cuisine,1
+ID_2126,Other cooking flavours & essentials,Characteristics,Unhealthy option,1
+ID_2126,Other cooking flavours & essentials,Flavours,Savoury,1
+ID_2127,Cream,Characteristics,Unhealthy option,1
+ID_2127,Cream,Characteristics,Animal produce,1
+ID_2127,Cream,Characteristics,Fresh,1
+ID_2127,Cream,Flavours,Sweet,1
+ID_2128,Other crisps & rice cakes,Characteristics,Unhealthy option,1
+ID_2128,Other crisps & rice cakes,Characteristics,Grab & go prepared food or drink,1
+ID_2128,Other crisps & rice cakes,Characteristics,Southeast Asian cuisine,1
+ID_2128,Other crisps & rice cakes,Flavours,Salty,1
+ID_2128,Other crisps & rice cakes,Flavours,Sweet,1
+ID_2128,Other crisps & rice cakes,Flavours,Savoury,1
+ID_2129,Other starters & sides,Characteristics,Just cook food,1
+ID_2129,Other starters & sides,Characteristics,French cuisine,1
+ID_2129,Other starters & sides,Characteristics,Grab & go prepared food or drink,1
+ID_2129,Other starters & sides,Characteristics,Contains meat,1
+ID_2129,Other starters & sides,Flavours,Savoury,1
+ID_2129,Other starters & sides,Flavours,Umami,1
+ID_2130,Party decorations,Flavours,Non food,1
+ID_2131,Jams,Characteristics,British cuisine,1
+ID_2131,Jams,Characteristics,Just cook food,1
+ID_2131,Jams,Characteristics,Unhealthy option,1
+ID_2131,Jams,Flavours,Sweet,1
+ID_2132,Other milky drinks,Characteristics,Grab & go prepared food or drink,1
+ID_2132,Other milky drinks,Characteristics,Unhealthy option,1
+ID_2132,Other milky drinks,Flavours,Sweet,1
+ID_2133,"Sandwiches, wraps & sushi",Characteristics,Grab & go prepared food or drink,1
+ID_2133,"Sandwiches, wraps & sushi",Characteristics,Contains meat,1
+ID_2133,"Sandwiches, wraps & sushi",Characteristics,British cuisine,1
+ID_2133,"Sandwiches, wraps & sushi",Characteristics,Fresh,1
+ID_2133,"Sandwiches, wraps & sushi",Characteristics,Unhealthy option,1
+ID_2133,"Sandwiches, wraps & sushi",Flavours,Umami,1
+ID_2133,"Sandwiches, wraps & sushi",Flavours,Savoury,1
+ID_2133,"Sandwiches, wraps & sushi",Flavours,Salty,1
+ID_2134,Muffins,Characteristics,British cuisine,1
+ID_2134,Muffins,Characteristics,Just cook food,1
+ID_2134,Muffins,Characteristics,Unhealthy option,1
+ID_2134,Muffins,Characteristics,Fresh,1
+ID_2134,Muffins,Flavours,Sweet,1
+ID_2135,Still water,Flavours,Neutral,1
+ID_2136,"Kebabs, strips & pieces",Characteristics,Contains meat,1
+ID_2136,"Kebabs, strips & pieces",Characteristics,Just cook food,1
+ID_2136,"Kebabs, strips & pieces",Characteristics,Unhealthy option,1
+ID_2136,"Kebabs, strips & pieces",Flavours,Umami,1
+ID_2136,"Kebabs, strips & pieces",Flavours,Savoury,1
+ID_2136,"Kebabs, strips & pieces",Flavours,Salty,1
+ID_2136,"Kebabs, strips & pieces",Flavours,Sweet,1
+ID_2137,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_2137,Other fruit juice,Characteristics,Unhealthy option,1
+ID_2137,Other fruit juice,Characteristics,Fresh,1
+ID_2137,Other fruit juice,Flavours,Sweet,1
+ID_2138,Pork pies & scotch eggs,Characteristics,British cuisine,1
+ID_2138,Pork pies & scotch eggs,Characteristics,Contains meat,1
+ID_2138,Pork pies & scotch eggs,Characteristics,Grab & go prepared food or drink,1
+ID_2138,Pork pies & scotch eggs,Characteristics,Unhealthy option,1
+ID_2138,Pork pies & scotch eggs,Flavours,Savoury,1
+ID_2138,Pork pies & scotch eggs,Flavours,Salty,1
+ID_2139,Mixed cheeses,Characteristics,Contains meat,1
+ID_2139,Mixed cheeses,Flavours,Salty,1
+ID_2139,Mixed cheeses,Flavours,Savoury,1
+ID_2139,Mixed cheeses,Flavours,Umami,1
+ID_2140,Mini pizza & pockets,Characteristics,Grab & go prepared food or drink,1
+ID_2140,Mini pizza & pockets,Characteristics,Contains meat,1
+ID_2140,Mini pizza & pockets,Characteristics,Unhealthy option,1
+ID_2140,Mini pizza & pockets,Flavours,Salty,1
+ID_2140,Mini pizza & pockets,Flavours,Savoury,1
+ID_2140,Mini pizza & pockets,Flavours,Umami,1
+ID_2141,Other prepared meat,Characteristics,Grab & go prepared food or drink,1
+ID_2141,Other prepared meat,Characteristics,Contains meat,1
+ID_2141,Other prepared meat,Characteristics,British cuisine,1
+ID_2141,Other prepared meat,Characteristics,Unhealthy option,1
+ID_2141,Other prepared meat,Characteristics,Fresh,1
+ID_2141,Other prepared meat,Flavours,Salty,1
+ID_2141,Other prepared meat,Flavours,Savoury,1
+ID_2141,Other prepared meat,Flavours,Sweet,1
+ID_2142,Potatoes & sweet potatoes,Characteristics,Health food or drink,1
+ID_2142,Potatoes & sweet potatoes,Characteristics,Fresh,1
+ID_2142,Potatoes & sweet potatoes,Flavours,Neutral,1
+ID_2143,Biscuits,Characteristics,Unhealthy option,1
+ID_2143,Biscuits,Characteristics,Grab & go prepared food or drink,1
+ID_2143,Biscuits,Flavours,Sweet,1
+ID_2144,Other wellbeing,Flavours,Non food,1
+ID_2145,Other chilled desserts,Characteristics,Grab & go prepared food or drink,1
+ID_2145,Other chilled desserts,Characteristics,British cuisine,1
+ID_2145,Other chilled desserts,Characteristics,Unhealthy option,1
+ID_2145,Other chilled desserts,Characteristics,Fresh,1
+ID_2145,Other chilled desserts,Flavours,Sweet,1
+ID_2146,Fresh flowers,Flavours,Non food,1
+ID_2147,Deodorant,Flavours,Non food,1
+ID_2148,Other personal care,Flavours,Non food,1
+ID_2149,Cola,Characteristics,Grab & go prepared food or drink,1
+ID_2149,Cola,Characteristics,Contains seafood,1
+ID_2149,Cola,Characteristics,Unhealthy option,1
+ID_2149,Cola,Flavours,Sweet,1
+ID_2149,Cola,Flavours,Sour,1
+ID_2150,Deodorant,Flavours,Neutral,1
+ID_2151,Other tea,Characteristics,Health food or drink,1
+ID_2151,Other tea,Flavours,Neutral,1
+ID_2152,Other cereal,Characteristics,Health food or drink,1
+ID_2152,Other cereal,Characteristics,Grab & go prepared food or drink,1
+ID_2152,Other cereal,Characteristics,Unhealthy option,1
+ID_2152,Other cereal,Flavours,Sweet,1
+ID_2153,Ice cream,Characteristics,Grab & go prepared food or drink,1
+ID_2153,Ice cream,Characteristics,Frozen food,1
+ID_2153,Ice cream,Characteristics,Unhealthy option,1
+ID_2153,Ice cream,Characteristics,Animal produce,1
+ID_2153,Ice cream,Characteristics,Fresh,1
+ID_2153,Ice cream,Flavours,Sweet,1
+ID_2154,Ice cream,Characteristics,Frozen food,1
+ID_2154,Ice cream,Characteristics,Unhealthy option,1
+ID_2154,Ice cream,Characteristics,Grab & go prepared food or drink,1
+ID_2154,Ice cream,Characteristics,Animal produce,1
+ID_2154,Ice cream,Flavours,Sweet,1
+ID_2154,Ice cream,Flavours,Umami,1
+ID_2155,Marmalade & curds,Characteristics,British cuisine,1
+ID_2155,Marmalade & curds,Characteristics,Unhealthy option,1
+ID_2155,Marmalade & curds,Flavours,Sweet,1
+ID_2156,Chocolate bars & confectionary,Characteristics,Unhealthy option,1
+ID_2156,Chocolate bars & confectionary,Flavours,Sweet,1
+ID_2157,Earl grey & speciality tea bags,Characteristics,Health food or drink,1
+ID_2157,Earl grey & speciality tea bags,Characteristics,Organic or additive free,1
+ID_2157,Earl grey & speciality tea bags,Characteristics,Grab & go prepared food or drink,1
+ID_2157,Earl grey & speciality tea bags,Flavours,Bitter,1
+ID_2158,Other fruit juice,Characteristics,Grab & go prepared food or drink,1
+ID_2158,Other fruit juice,Characteristics,Health food or drink,1
+ID_2158,Other fruit juice,Flavours,Sweet,1
+ID_2159,Jelly & chewy sweets,Characteristics,Unhealthy option,1
+ID_2159,Jelly & chewy sweets,Flavours,Sweet,1
+ID_2160,Other ice cream,Characteristics,Unhealthy option,1
+ID_2160,Other ice cream,Characteristics,Frozen food,1
+ID_2160,Other ice cream,Flavours,Sweet,1

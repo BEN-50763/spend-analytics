@@ -8,15 +8,10 @@ from pydantic import BaseModel, Field
 from typing import List
 
 #############
-# Variable declarations and environment variables (all lower case)
+# Variable declarations and environment variables
 #############
-batch_size = 20  # Number of items per GPT API batch
-gpt_api_key = "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"
-client = AsyncOpenAI(api_key=gpt_api_key)
-gpt_model = "ft:gpt-4o-mini-2024-07-18:personal::BCOsoAm5"
-
 # File path for validation categories (update as needed)
-validation_categories_file_path = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\2) Data\2) Data Preparations\Categories.xlsx"
+validation_categories_file_path = r"G:\My Drive\Wantrepreneurialism\Active\spend-analytics\Tesco Clubcards\2) Data\2) Data Preparations\1) Taxonomies\Categories.xlsx"
 
 #############
 # Load valid categories from the Excel file
@@ -57,7 +52,7 @@ required_keys = ["category_3", "category_2", "category_1", "characteristics", "f
 # Helper function: prompt_gpt_batch
 #############
 
-async def prompt_gpt_batch(UIDs, item_names):
+async def prompt_gpt_batch(UIDs, item_names, client, gpt_model):
     """
     Processes a batch of product names using GPT API calls asynchronously.
     Returns a list of tuples (UID, product name, gpt_output).
@@ -84,7 +79,7 @@ async def prompt_gpt_batch(UIDs, item_names):
 #############
 # Main function: run_item_categoriser
 #############
-async def run_item_categoriser(df_items):
+async def run_item_categoriser(df_items, batch_size, gpt_api_key, gpt_model):
     """
     Processes the input DataFrame of items in batches.
     Expects df_items to have columns 'UID' and 'product name'.
@@ -92,15 +87,17 @@ async def run_item_categoriser(df_items):
     """
     results = []
     num_items = len(df_items)
+    # Initiate API client
+    client = AsyncOpenAI(api_key=gpt_api_key)
     # Use tqdm normally
     with tqdm(total=num_items, desc=f"Prompting GPT over {num_items} products, batches of {batch_size}") as pbar:
         for i in range(0, num_items, batch_size):
             batch = df_items.iloc[i:i + batch_size]
             UIDs = batch["UID"].tolist()
             item_names = batch["product name"].tolist()
-            
+            # Input batch of prompts
             try:
-                batch_results = await prompt_gpt_batch(UIDs, item_names)
+                batch_results = await prompt_gpt_batch(UIDs, item_names, client, gpt_model)
             except Exception as e:
                 batch_results = [(UID, item, "Error") for UID, item in zip(UIDs, item_names)]
             
