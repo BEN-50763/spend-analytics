@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import zipfile
 from datetime import datetime
+import csv
 
 #############
 # Unzipping functions
@@ -184,8 +185,8 @@ def extract_data(newly_unzipped_list, userdata_output_root_folder, df_all, all_i
         os.makedirs(data_output_path, exist_ok=True)
 
         # Save to CSV
-        df_fact_transactions.to_csv(os.path.join(data_output_path, "FACT_transactions.csv"), index=False)
-        df_dim_basket.to_csv(os.path.join(data_output_path, "DIM_basket.csv"), index=False)
+        df_fact_transactions.to_csv(os.path.join(data_output_path, "FACT_transactions.csv"), index=False, quoting=csv.QUOTE_ALL)
+        df_dim_basket.to_csv(os.path.join(data_output_path, "DIM_basket.csv"), index=False, quoting=csv.QUOTE_ALL)
 
     return df_all
 

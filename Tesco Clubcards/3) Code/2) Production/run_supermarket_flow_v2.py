@@ -5,10 +5,11 @@ import os
 import time
 from datetime import datetime
 from ruamel.yaml import YAML
+import csv
 
 # Import processor functions
 from categorise_products_v1 import run_item_categoriser, validate_responses
-from scrape_tesco_v1 import run_tesco_scraper
+from scrape_tesco_v1_1 import run_tesco_scraper
 from probe_openfoodfacts_v1 import run_openfoodfacts_query
 from open_data_files_v1 import run_data_opener
 
@@ -127,7 +128,7 @@ def save_data(data, output_file, columns, sleep_interval=10):
     df = ensure_consistent_columns(df, columns)
     while True:
         try:
-            df.to_csv(output_file, mode='a', header=not os.path.exists(output_file), index=False)
+            df.to_csv(output_file, mode='a', header=not os.path.exists(output_file), index=False, quoting=csv.QUOTE_ALL)
             break  # Exit loop if saving succeeds
         except PermissionError:
             logging.critical(f"File '{output_file}' is currently locked. Retrying in {sleep_interval} second(s)...")
@@ -168,7 +169,7 @@ def userdata_run_flow(df_all, config_file_path, all_items_input_file, userdata_z
     logging.critical(f"Opening {len(files_to_unzip)} new ZIP files.")
     df_all, updated_timestamp = run_data_opener(files_to_unzip, userdata_output_root_folder, userdata_unzipped_root_folder, df_all, all_items_input_file)
     logging.critical(f"Saving new 'all items' file with {len(df_all)} products (previously {initial_all_len})")
-    df_all.to_csv(all_items_input_file, index=False)
+    df_all.to_csv(all_items_input_file, index=False, quoting=csv.QUOTE_ALL)
     # Update config file to show recent unzip time
     update_last_unzip_time(config_file_path, config_data, updated_timestamp)
 
