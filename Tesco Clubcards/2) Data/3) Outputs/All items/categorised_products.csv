@@ -7656,6 +7656,9 @@ ID_2158,Other fruit juice,Characteristics,Health food or drink,1
 ID_2158,Other fruit juice,Flavours,Sweet,1
 ID_2159,Jelly & chewy sweets,Characteristics,Unhealthy option,1
 ID_2159,Jelly & chewy sweets,Flavours,Sweet,1
-ID_2160,Other ice cream,Characteristics,Unhealthy option,1
-ID_2160,Other ice cream,Characteristics,Frozen food,1
-ID_2160,Other ice cream,Flavours,Sweet,1
+"ID_2160","Other chilled desserts","Characteristics","Just cook food","1"
+"ID_2160","Other chilled desserts","Characteristics","Special event or occasion","1"
+"ID_2160","Other chilled desserts","Characteristics","Animal produce","1"
+"ID_2160","Other chilled desserts","Characteristics","Unhealthy option","1"
+"ID_2160","Other chilled desserts","Characteristics","Grab & go prepared food or drink","1"
+"ID_2160","Other chilled desserts","Flavours","Sweet","1"
