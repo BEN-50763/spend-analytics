@@ -26,6 +26,10 @@ def retry(retries=3):
         return wrapper
     return decorator
 
+# Function to ensure input text is curl_cffi safe    
+def ascii_safe(text):
+    return str(text).encode('ascii', 'ignore').decode('ascii')
+
 @retry(retries=3)
 def search_ddgs(search_item):
     # Search DuckDuckGo with retry wrapper
@@ -35,6 +39,7 @@ def search_ddgs(search_item):
 
 # Grab results of the found page
 def get_url_content(URL):
+    URL = ascii_safe(URL)
     max_retries = 5
     for attempt in range(max_retries):
         try:

@@ -23,12 +23,16 @@ def generate_referrer(previous_item=None):
     else:
         return f"https://www.tesco.com/groceries/en-GB/search?query={previous_item}"
 
+# Function to ensure input text is curl_cffi safe    
+def ascii_safe(text):
+    return str(text).encode('ascii', 'ignore').decode('ascii')
+
 # Use origin or previous item as referrer
 def query_tesco_api(search_item, referrer, count, session=None):
     url = "https://api.tesco.com/shoppingexperience"
     
     headers = {
-        "Referer": referrer,
+        "Referer": ascii_safe(referrer),
         "Origin": "https://www.tesco.com",
         "x-apikey": "TvOSZJHlEk0pjniDGQFAc9Q59WGAR4dA",
     }
@@ -67,7 +71,7 @@ def query_tesco_api(search_item, referrer, count, session=None):
     body = [{
         "operationName": "Search",
         "variables": {
-            "query": search_item,
+            "query": ascii_safe(search_item),
             "page": 1,
             "count": count,
             "sortBy": "relevance"
