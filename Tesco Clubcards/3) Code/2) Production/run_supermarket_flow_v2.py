@@ -6,6 +6,7 @@ import time
 from datetime import datetime
 from ruamel.yaml import YAML
 import csv
+import json
 
 # Import processor functions
 from categorise_products_v1 import run_item_categoriser, validate_responses
@@ -211,7 +212,7 @@ def off_run_flow(df, output_file):
         return
     # Reset index to preserve ordering
     df = df.reset_index(drop=True)
-    barcodes = [int(float(b)) if pd.notnull(b) else None for b in df['barcode']] # Force them all as int and keep None values
+    barcodes = [int(float(b)) if pd.notnull(b) else None for b in df['barcode']]  # Force them all as int and keep None values
     uids = df['UID'].tolist()
     results = run_openfoodfacts_query(barcodes)
     # Reattach UID and flatten the OFF_nutriments dictionary without extra prefix
@@ -221,7 +222,19 @@ def off_run_flow(df, output_file):
             nutriments = res.pop('OFF_nutriments')
             for sub_key, sub_value in nutriments.items():
                 res[sub_key] = sub_value
+
+    # Sanitize result values
+    for res in results:
+        for k, v in res.items():
+            if isinstance(v, (list, dict)):
+                res[k] = json.dumps(v)
+            elif pd.isna(v):
+                res[k] = ""
+            else:
+                res[k] = str(v).replace('\n', ' ').replace('\r', ' ').replace('"', '""')
+
     save_data(results, output_file, OFF_COLUMNS)
+
 
 ######################
 # Batch & run function
